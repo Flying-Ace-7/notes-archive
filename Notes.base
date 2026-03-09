@@ -1,0 +1,20 @@
+formulas:
+  Untitled: ""
+  Description: if(    ((file.folder).slice(28) !=""),(file.folder).slice(28),file.folder.slice(17) + " General")
+  Untitled 2: cssclasses
+views:
+  - type: table
+    name: History
+    filters:
+      and:
+        - file.hasLink("History MOC")
+    order:
+      - file.name
+      - file.folder
+      - formula.Description
+  - type: table
+    name: Biology
+    filters:
+      and:
+        - file.hasLink("Subjects/Biology/Biology MOC")
+    sort: []

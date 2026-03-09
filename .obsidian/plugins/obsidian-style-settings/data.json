@@ -1,0 +1,22 @@
+{
+  "things-style@@h1-color": "#FFD90B",
+  "things-style@@h4-color": "#08AD07",
+  "things-style@@h6-color": "#E26210",
+  "things-style@@h2-color": "#2EBDF2",
+  "things-style@@h2-weight": 700,
+  "things-style@@h3-weight": 675,
+  "things-style@@h4-weight": 625,
+  "things-style@@h5-weight": 575,
+  "things-style@@h6-weight": 500,
+  "things-style@@h1-weight": 750,
+  "things-style@@strong-color": "#0BE2D5",
+  "things-style@@em-color": "#08A4EB",
+  "cupertino@@clean-link-off": false,
+  "cupertino@@banner-off": false,
+  "cupertino-accessibility@@reduce-motion": false,
+  "cupertino@@adaptive-mode-off": true,
+  "cupertino@@colorful-frame": true,
+  "cupertino@@hover-ribbon": true,
+  "cupertino@@focus-view": false,
+  "cupertino@@hover-sidedock": true
+}

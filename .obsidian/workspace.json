@@ -1,0 +1,391 @@
+{
+  "main": {
+    "id": "33fe20c2a79e3b9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e467faa985574963",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80d2861faf5033f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/History/Y2 History/WWI - Communism/Communism - Rise of stalin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Communism - Rise of stalin"
+            }
+          },
+          {
+            "id": "06878aea300a8052",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/History/Y3 History/Korean war/Korean War I.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Korean War I"
+            }
+          },
+          {
+            "id": "5da982a6a180e5d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Decolonisation of vietnam"
+            }
+          },
+          {
+            "id": "347671ca8c002311",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
+            "id": "a11575e7e7e346f2",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://obsidian.md/download",
+                "title": "Download - Obsidian",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Download - Obsidian"
+            }
+          },
+          {
+            "id": "51da30e7dcb38340",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://obsidian.md/download",
+                "title": "Download - Obsidian",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Download - Obsidian"
+            }
+          },
+          {
+            "id": "914283faa3672a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vietnam War"
+            }
+          },
+          {
+            "id": "56e8085641aa7ab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Decolonisation of vietnam"
+            }
+          },
+          {
+            "id": "33d2ff9ca07d7c63",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "953a54459b90b629",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec7ab446020696e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81f2a6200a5d5d0c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "510e9ec93b3ae086",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "30e38ec78b7d2f06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9d2fb16d5f7a9deb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a77279efd0e78d5",
+        "type": "tabs",
+        "dimension": 36.54891304347826,
+        "children": [
+          {
+            "id": "bca64d4c503e9ee2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8676321309afdd90",
+        "type": "tabs",
+        "dimension": 27.17391304347826,
+        "children": [
+          {
+            "id": "59c1cbfbae84bbec",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "94faed9c60219753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2025-09-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-04"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f83f30a57f4dddad",
+        "type": "tabs",
+        "dimension": 36.27717391304348,
+        "children": [
+          {
+            "id": "658e7569d166229a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Subjects/English/OBQ Stuff.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for OBQ Stuff"
+            }
+          },
+          {
+            "id": "24c2d229e4f25070",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "11d395eeca0b61a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "91d0887b4063e895",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "485255a4f25c23eb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "33d2ff9ca07d7c63",
+  "lastOpenFiles": [
+    "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
+    "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
+    "Pasted image 20260309092947.png",
+    "Daily Notes/2026-03-09.md",
+    "Subjects/History/Y3 History/Korean war/Korean War I.md",
+    "Notes.base",
+    "Untitled.md",
+    "Subjects/Biology/Metabolism.md",
+    "Subjects/History/Y3 History/Utility SBQ.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "Subjects/History/Y2 History/WWI , Communism and WWII/History MOC.md",
+    "Subjects/History/Y2 History/British in SEA/FMS Vs UFMS keynote.md",
+    "Subjects/History/Y3 History/GA Practice answer.md",
+    "Subjects/History/Y3 History/Cold War/Truman Doctrine.md",
+    "Subjects/History/Y3 History/Cold War/WWII and Cold War.md",
+    "Subjects/History/Y3 History/Cold War/Post-WWII.md",
+    "Subjects/History/Y3 History/Cold War/Cold War II.md",
+    "Subjects/History/Y3 History/Cold War/Cold War I.md",
+    "Subjects/History/Guerrilla Warfare.md",
+    "Subjects/History/Y3 History/Vietnam/Colonisation of Vietnam.md",
+    "Subjects/History/Y3 History/Cold War/Zero-Sum Concept.md",
+    "Subjects/History/Y3 History/Vietnam",
+    "Subjects/History/Y3 History/2-source suprise.md",
+    "Subjects/Biology/Excretory Processes.md",
+    "Subjects/History/Y3 History/SBQ.md",
+    "Subjects/History/Y2 History/WWI , Communism and WWII/Communism - Rise of stalin.md",
+    "Subjects/History/Y2 History/WWI , Communism and WWII/History Sem 2 Breifing.md",
+    "Subjects/History/Y3 History/Korean war",
+    "History.zip",
+    "Subjects/History.zip",
+    "Subjects/History/Y2 History",
+    "Subjects/History/Y3 History",
+    "Subjects/History/Y3 History/Cold War",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Subjects/History/Y2 History/History revision Trust.canvas",
+    "Redundant/Images/Pasted image 20250913125341.png",
+    "Pasted image 20250819160658.png",
+    "Redundant/Images/Pasted image 20250816154506.png",
+    "Redundant/Images/Pasted image 20250723190649.png",
+    "Redundant/Images/Pasted image 20250803165426.png",
+    "Redundant/Images/Pasted image 20250729175531.png",
+    "Redundant/Images/Pasted image 20250723191049.png",
+    "Redundant/Images/Pasted image 20250722185417.png",
+    "Redundant/Images/Pasted image 20250716082331.png",
+    "Subjects/Math/Trigo/Trig(AAG).canvas"
+  ]
+}

@@ -1,0 +1,3 @@
+- Dutch Preserved standing of the sultans and the Priyayi
+- Short Declarations (1911) with about 200 Outer island states and chiefdoms -> Local rulers could maintain theri positions if they recognized dutch authirity and took their advise on how to excersice their power
+- 

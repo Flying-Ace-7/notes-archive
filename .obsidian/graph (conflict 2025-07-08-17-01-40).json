@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Subjects/Math  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Subjects/History  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Subjects/Sciences/Chem  ",
+      "color": {
+        "a": 1,
+        "rgb": 4056845
+      }
+    },
+    {
+      "query": "path:\"Daily Notes\" ",
+      "color": {
+        "a": 1,
+        "rgb": 6952171
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 8.33910034602076,
+  "linkStrength": 0.984429065743945,
+  "linkDistance": 30,
+  "scale": 0.7514604904746611,
+  "close": true
+}

@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"b3b6712aefe324a6","type":"text","text":"Trig I","x":-400,"y":400,"width":250,"height":60},
+		{"id":"6b2bfd0e70958185","type":"file","file":"Subjects/Math/Trigo/Math Trigo MOC.md","x":520,"y":15,"width":400,"height":400},
+		{"id":"f6dc1190b3650d3c","type":"file","file":"Subjects/Math/Trigo/Trig I/Tangent.md","x":29,"y":680,"width":400,"height":400},
+		{"id":"4a2a673af63a41d6","type":"file","file":"Subjects/Math/Trigo/Trig I/Cosine.md","x":-412,"y":680,"width":400,"height":400},
+		{"id":"18022ab20f8eb543","type":"file","file":"Subjects/Math/Trigo/Trig I/Sine.md","x":520,"y":680,"width":400,"height":400},
+		{"id":"07f96fcd26832815","type":"file","file":"Subjects/Math/Trigo/Trig II/Secant.md","x":-960,"y":30,"width":400,"height":400},
+		{"id":"4007a1b991f064be","type":"file","file":"Subjects/Math/Trigo/Trig II/Cosecant.md","x":-954,"y":-385,"width":394,"height":400},
+		{"id":"ad2158483a44ad35","type":"file","file":"Subjects/Math/Trigo/Trig II/Cotangent.md","x":-954,"y":-785,"width":400,"height":400},
+		{"id":"994f6eea2fb62e93","type":"text","text":"Trig II","x":-387,"y":144,"width":250,"height":86},
+		{"id":"52a8ea64474543d7","type":"text","text":"Identities","x":1060,"y":175,"width":250,"height":81},
+		{"id":"9a574e00d3019107","type":"file","file":"Subjects/Math/Trigo/Trig Identities/Addition-Minus Identities.md","x":1580,"y":-340,"width":400,"height":400},
+		{"id":"9ecbf7b9a7bd6565","type":"file","file":"Subjects/Math/Trigo/Trig Identities/Trig-Identities_Pythogarean.md","x":1580,"y":60,"width":400,"height":400},
+		{"id":"13b6345c6f7b8f82","type":"text","text":"[[Math Trigo MOC]]\n[[Math MOC]]","x":595,"y":-320,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f74bc9325157e1f0","fromNode":"6b2bfd0e70958185","fromSide":"left","toNode":"b3b6712aefe324a6","toSide":"right"},
+		{"id":"48d5735c7177d195","fromNode":"6b2bfd0e70958185","fromSide":"left","toNode":"994f6eea2fb62e93","toSide":"right"},
+		{"id":"915de8b504b09533","fromNode":"b3b6712aefe324a6","fromSide":"bottom","toNode":"4a2a673af63a41d6","toSide":"top","color":"2"},
+		{"id":"4fb94fe654411c24","fromNode":"b3b6712aefe324a6","fromSide":"bottom","toNode":"f6dc1190b3650d3c","toSide":"top","color":"3"},
+		{"id":"2286a102c7c43dab","fromNode":"b3b6712aefe324a6","fromSide":"bottom","toNode":"18022ab20f8eb543","toSide":"top","color":"1"},
+		{"id":"6dcd098a48bf7cfd","fromNode":"994f6eea2fb62e93","fromSide":"left","toNode":"07f96fcd26832815","toSide":"right","color":"2"},
+		{"id":"8b9686690005f686","fromNode":"994f6eea2fb62e93","fromSide":"left","toNode":"4007a1b991f064be","toSide":"right","color":"1"},
+		{"id":"33beedb28ec40c10","fromNode":"994f6eea2fb62e93","fromSide":"left","toNode":"ad2158483a44ad35","toSide":"right","color":"3"},
+		{"id":"6895ade390387d3b","fromNode":"13b6345c6f7b8f82","fromSide":"bottom","toNode":"6b2bfd0e70958185","toSide":"top"},
+		{"id":"85a15a589ec764ad","fromNode":"6b2bfd0e70958185","fromSide":"right","toNode":"52a8ea64474543d7","toSide":"left"},
+		{"id":"dc4ef0aa98739047","fromNode":"52a8ea64474543d7","fromSide":"right","toNode":"9ecbf7b9a7bd6565","toSide":"left"},
+		{"id":"1374ee15d8bc1565","fromNode":"52a8ea64474543d7","fromSide":"right","toNode":"9a574e00d3019107","toSide":"left"},
+		{"id":"45b1af6d9ce972ab","fromNode":"994f6eea2fb62e93","fromSide":"top","toNode":"52a8ea64474543d7","toSide":"bottom"}
+	]
+}
