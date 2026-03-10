@@ -66,14 +66,18 @@
             "id": "33d2ff9ca07d7c63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -273,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -294,11 +298,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5da982a6a180e5d6",
+  "active": "33d2ff9ca07d7c63",
   "lastOpenFiles": [
-    "Vault_Info/TESTTR1OII.base",
-    "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
     "Notes.base",
+    "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
+    "Vault_Info/TESTTR1OII.base",
     "TaskSheet.md",
     "Untitled.md",
     "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
@@ -332,7 +336,6 @@
     "Subjects/History/Y3 History",
     "Subjects/History/Y3 History/Cold War",
     "copilot/copilot-custom-prompts",
-    "copilot",
     "Subjects/History/Y2 History/History revision Trust.canvas",
     "Redundant/Images/Pasted image 20250913125341.png",
     "Pasted image 20250819160658.png",
