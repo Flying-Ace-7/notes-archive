@@ -36,36 +36,6 @@
             }
           },
           {
-            "id": "914283faa3672a3c",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Notes.base",
-                "viewName": "History"
-              },
-              "icon": "lucide-table",
-              "title": "Notes"
-            }
-          },
-          {
-            "id": "33d2ff9ca07d7c63",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "9c6e078dfabc6705",
-        "type": "tabs",
-        "children": [
-          {
             "id": "5da982a6a180e5d6",
             "type": "leaf",
             "state": {
@@ -78,8 +48,34 @@
               "icon": "lucide-file",
               "title": "Decolonisation of vietnam"
             }
+          },
+          {
+            "id": "914283faa3672a3c",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Index)"
+            }
+          },
+          {
+            "id": "72eb8a0ddde741bf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -279,7 +275,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -302,19 +298,17 @@
   },
   "active": "914283faa3672a3c",
   "lastOpenFiles": [
-    "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
-    "Vietnam war Timeline.md",
-    "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
     "Notes.base",
-    "Subjects/History/Y3 History/Vietnam/Colonisation of Vietnam.md",
-    "Vault_Info/Tasks.md",
-    "Subjects/History/Y3 History/Korean war/Korean War I.md",
+    "Subjects/History/Y3 History/Vietnam/Vietnam war Timeline.md",
+    "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
     "Vault_Info/TESTTR1OII.base",
-    "Untitled.md",
     "TaskSheet.md",
-    "Pasted image 20260309092947.png",
+    "Untitled.md",
+    "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
     "Exam To Do.md",
+    "Pasted image 20260309092947.png",
     "Daily Notes/2026-03-09.md",
+    "Subjects/History/Y3 History/Korean war/Korean War I.md",
     "Subjects/Biology/Metabolism.md",
     "Subjects/History/Y3 History/Utility SBQ.md",
     "copilot/copilot-custom-prompts/Summarize.md",
@@ -328,9 +322,11 @@
     "Subjects/History/Y3 History/Cold War/Cold War II.md",
     "Subjects/History/Y3 History/Cold War/Cold War I.md",
     "Subjects/History/Guerrilla Warfare.md",
+    "Subjects/History/Y3 History/Vietnam/Colonisation of Vietnam.md",
     "Subjects/History/Y3 History/Cold War/Zero-Sum Concept.md",
     "Subjects/History/Y3 History/Vietnam",
     "Subjects/History/Y3 History/2-source suprise.md",
+    "Subjects/Biology/Excretory Processes.md",
     "Subjects/History/Y3 History/Korean war",
     "History.zip",
     "Subjects/History.zip",
