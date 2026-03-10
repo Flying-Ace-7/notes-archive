@@ -53,14 +53,13 @@
             "id": "914283faa3672a3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "TaskSheet.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes.base",
+                "viewName": "History"
               },
-              "icon": "lucide-file",
-              "title": "TaskSheet"
+              "icon": "lucide-table",
+              "title": "Notes"
             }
           },
           {
@@ -152,19 +151,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "2a606544a31c2ca4",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8676321309afdd90",
@@ -182,6 +170,16 @@
             }
           },
           {
+            "id": "2a606544a31c2ca4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "94faed9c60219753",
             "type": "leaf",
             "state": {
@@ -195,7 +193,8 @@
               "title": "2025-09-04"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f83f30a57f4dddad",
@@ -278,7 +277,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,8 +296,8 @@
   },
   "active": "914283faa3672a3c",
   "lastOpenFiles": [
-    "Untitled.md",
     "TaskSheet.md",
+    "Untitled.md",
     "Notes.base",
     "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
     "Exam To Do.md",
