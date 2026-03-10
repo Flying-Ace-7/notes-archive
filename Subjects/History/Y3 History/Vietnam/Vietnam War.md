@@ -41,4 +41,3 @@ Small wars and insurgencies (where still people died) was the main type of warfa
 
 This is known as Seminal: Cannot extinguish Nationalist Liberation struggle
 After China's "fall", all presidents say that her did not want to see Vietname fall like China "not on my watch" -> "Never fight in a war that the USA govt are afraid that the other government might win"
-
