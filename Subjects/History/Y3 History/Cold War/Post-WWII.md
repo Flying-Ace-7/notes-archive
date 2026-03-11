@@ -94,7 +94,7 @@ Truman doctrine, Marshall plan -> Stabilised economy
 
 NATO-> Political stability
 
-_Military arm of[[The Policy of Containment]]_
+_Military arm of [[The Policy of Containment]]_
 
 
 
@@ -116,8 +116,7 @@ Now, there results in a competion, to have the best quality and quantity of Atom
 INCREASE IN AGRESSION.
 
 ## West Germany joins Nato 1955
-
-
+---
 
 ## Warsaw pact 1959
 
