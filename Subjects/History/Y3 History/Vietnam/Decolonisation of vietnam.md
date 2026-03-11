@@ -195,7 +195,7 @@ Commmunists controlled rural and mountainous regions.
 french controlled major cities and most of CochinChina
 Indochinese Federation to unify Tonkin, Annam, and cochinchina into the Associated state of Vietnam , which was supported by the USA and british
 
-_French started burning and bombing villages indiscriminanlty_
+_French started burning and bombing villages indiscriminanlty, to get rid of the viet minh as a last-ditch attempt_
 
 
 

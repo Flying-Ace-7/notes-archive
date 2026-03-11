@@ -86,4 +86,23 @@ From now till [First Indochina war]([[Decolonisation of vietnam#FIRST INDOCHINA 
 - The French stormed Hanoi the nect day, and drove the DRV out of hanoi, Hanoi had fallen to the french.
 - The escalation of Hanoi marked the start of First Indochina War.
 - In 1949, the French set up an alternative government for the state of vietname, with _Bao Dai_ as the head.
+
++ 1947
++ Operation Lea
++ The viet Minh had established their headquaters in Viet bac, a mountainous region. They were conducting guerrila warfare on the french.
+- The french parachuted their forces into the area to force the Viet Minh leaders and lsodiers out their base and to capture the leaders.
+- At the same time, a large force of The French soldiers surrounded the area to attack the Viet Minh soldier when they fled.
+- High casualties in Viet Minh
+
+The operatoin failed to destroy Viet Minh as the leaders were not captured, and the soldiers sought refuge in the Underground tunnel. (which were mines previously from period of french exploitiation)
+
++ 1948
++ Stalemate of Operation Lea
++ Commmunists controlled rural and mountainous regions.
+french controlled major cities and most of CochinChina
+Indochinese Federation to unify Tonkin, Annam, and cochinchina into the Associated state of Vietnam , which was supported by the USA and british
+
+_French started burning and bombing villages indiscriminanlty, to get rid of the viet minh as a last-ditch attempt_
+
+  
 ```
