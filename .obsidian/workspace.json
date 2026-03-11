@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "5da982a6a180e5d6",
+            "id": "72eb8a0ddde741bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,19 +48,9 @@
               "icon": "lucide-file",
               "title": "Decolonisation of vietnam"
             }
-          },
-          {
-            "id": "72eb8a0ddde741bf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,21 +271,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72eb8a0ddde741bf",
+  "active": "06878aea300a8052",
   "lastOpenFiles": [
+    "README.md",
+    "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
+    "Subjects/History/Y3 History/Vietnam/Vietnam war Timeline.md",
+    "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
+    "Subjects/History/Y3 History/Korean war/Korean War I.md",
     "Schooling subjects.md",
     "New Text Document.txt",
-    "Subjects/History/Y3 History/Vietnam/Vietnam war Timeline.md",
     "Notes.base",
-    "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
     "Vault_Info/TESTTR1OII.base",
     "TaskSheet.md",
     "Untitled.md",
-    "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
     "Exam To Do.md",
     "Pasted image 20260309092947.png",
     "Daily Notes/2026-03-09.md",
-    "Subjects/History/Y3 History/Korean war/Korean War I.md",
     "Subjects/Biology/Metabolism.md",
     "Subjects/History/Y3 History/Utility SBQ.md",
     "copilot/copilot-custom-prompts/Summarize.md",
@@ -313,7 +304,6 @@
     "Subjects/History/Y3 History/Cold War/Zero-Sum Concept.md",
     "Subjects/History/Y3 History/Vietnam",
     "Subjects/History/Y3 History/2-source suprise.md",
-    "Subjects/Biology/Excretory Processes.md",
     "Subjects/History/Y3 History/Korean war",
     "History.zip",
     "Subjects/History.zip",
