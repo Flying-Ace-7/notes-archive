@@ -11,6 +11,7 @@ aliases:
 
 WHen france surrendered to nazi germany -> a Vich government under german influence formed in France and in control of indochina.
 
+
 ## Timeline of events
 
 
@@ -250,6 +251,7 @@ the next day, diem with military backing from USA, immense civil fighting enusue
 
 
 ### 23 October 1955 : Rigged referundum
+
 Diem stages a referendum that deposes Bao dai, and allows Diem to create the republic of vietnam, with Diem becoming president and its captial in Saigon.
 
 You are supposed to have elections if you take away someone from power and re-elect another person into power.
@@ -288,8 +290,8 @@ The Vietcong had carried out 1700 assasinations on South Vietnam civil servants 
 ### Operation Ranch Hand:
 
 Use of Agent Orange (1961-1971)
-Chemical warfare was used to kill leaves of trees and other plants which provided shelter for the vietcong in the jungles.
-Agent Orange caused a range of illness such as cancer and birth defects in children whoce (pregnant) mothers were exposed to it, millions of children were affected, and born deformed.
+Chemical warfare was used to kill leaves of trees and other plants which provided shelter for the Vietcong in the jungles.
+Agent Orange caused a range of illness such as cancer and birth defects in children whose (pregnant) mothers were exposed to it, millions of children were affected, and born deformed.
 
 Well, the North Vietnam used these affected people as propoganda to criticise the actions of the USA, SUPER EFFECTIVE!
 
@@ -297,13 +299,13 @@ Well, the North Vietnam used these affected people as propoganda to criticise th
 
 
 The Us aided the Army or the republic of Vietnam, but it ended in their defeat.
-Realised the weakness of the South Viet Army, they scolded him for losing with high tech provided by USA. 
+They realised the weakness of the South Viet Army, they scolded him for losing with high tech provided by USA. 
 They asked him to apologise, but Diem refused.
 
 
 
 ### 8 May 1963: Beginning of USA's Distaste towards Diem.
-Diem himseld was a devout Catholic and his Government was perceived as promoting Catholic interests at the expense of Buddhists. He limited the display of the Buddhist flags and symblos during religious celebrations.
+Diem himself was a devout Catholic and his Government was perceived as promoting Catholic interests at the expense of Buddhists. He limited the display of the Buddhist flags and symblos during religious celebrations.
 
 South Vietnam police fired on and killed buddhist demonstratos in Hue
 11 June: Buddhist monk burns himself to protest against the oppression of his people.

@@ -50,19 +50,6 @@
             }
           },
           {
-            "id": "914283faa3672a3c",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Notes.base",
-                "viewName": "History"
-              },
-              "icon": "lucide-table",
-              "title": "Notes"
-            }
-          },
-          {
             "id": "72eb8a0ddde741bf",
             "type": "leaf",
             "state": {
@@ -294,8 +281,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bca64d4c503e9ee2",
+  "active": "72eb8a0ddde741bf",
   "lastOpenFiles": [
+    "Schooling subjects.md",
+    "New Text Document.txt",
+    "Subjects/History/Y3 History/Vietnam/Vietnam war Timeline.md",
     "Notes.base",
     "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
     "Vault_Info/TESTTR1OII.base",
@@ -324,14 +314,12 @@
     "Subjects/History/Y3 History/Vietnam",
     "Subjects/History/Y3 History/2-source suprise.md",
     "Subjects/Biology/Excretory Processes.md",
-    "Subjects/History/Y3 History/SBQ.md",
     "Subjects/History/Y3 History/Korean war",
     "History.zip",
     "Subjects/History.zip",
     "Subjects/History/Y2 History",
     "Subjects/History/Y3 History",
     "Subjects/History/Y3 History/Cold War",
-    "copilot/copilot-custom-prompts",
     "Subjects/History/Y2 History/History revision Trust.canvas",
     "Redundant/Images/Pasted image 20250913125341.png",
     "Pasted image 20250819160658.png",
