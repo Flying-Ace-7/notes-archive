@@ -104,5 +104,45 @@ Indochinese Federation to unify Tonkin, Annam, and cochinchina into the Associat
 
 _French started burning and bombing villages indiscriminanlty, to get rid of the viet minh as a last-ditch attempt_
 
++ 1954
++ Battle of Dien bien phu
++ The major turning point of the war.
+- In 1949, there were more conventional war between the two armies equipped with modern weapons supplied by the United States, China and the Soviet union.
+- Inn 1953, the French set up a major force in a military base in Dien bien Phu (a valley in a mountainous region) to cut Viet Minh's supply lines and establish control in this region.
+- The surrounding jungles was controlled by thr Giap. The viet Minh artillery in the jungles were not visible.
+- The french attempted to lure the Viet Minh out into the open battle against the french at strongly reinforced bases, and were confident in their fire power.
+
+the vietnamese brought tanks, artillery to the mountains, by recruiting the locals to help and assist in building roads etc.
+
+They were able to fight and win, but it started raining heavily, making their firepower not effective, but Help could not arrive too. 
+
++ 8 May 1954
++ The end of Dien Bien Phu
++
+
++ 21 July 1954
++ The Geneva Accords
++ In mid-1954, the French started negotiation with the Vietnamese when they realised that they were losing the war. (the battle of dien bien phu went on for two months, and usa withdrew the help.)
+
+Key terms: 
+- Vietnam is an independant war
+- DMZ of 5kn around the new "temporary border" of 17th parallel (yes it changed from the 16th ??).
+
+
+8 may 1954, the end of Dien Bien Pu.
+
+In the conference, there also was the background of [[Korean War I]] .
+Chinese Premier Zhou had to convince France and the US that the Viet Minh will not spread communism to Cambodia and laos.
+
+HOWEVER, viet minh were reluctant to accept the partition, where the Communists lose 20% of territories and 1.5 million peoples it governed in their teritorries below the 17th // (enclaves)
+Zhou convinced Ho to accpet the partition as it is "temporary".
+
+RV formed below the 17th, governed by USA.
+
+Democratic Peoples Republic of Vietnam formed with Viet Minh.
+
+20-21 July 1954 Geneva agreement
+- Provided for an armstice in the french-viet Minh war, the temporary partitioning of vietname between north and south, along the 17th parallel.
+Many communists fled north to DRV, and non-communists (mainly elites) fled to RV.
   
 ```
