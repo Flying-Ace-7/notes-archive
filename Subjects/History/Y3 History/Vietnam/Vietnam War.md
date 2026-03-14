@@ -41,3 +41,48 @@ Small wars and insurgencies (where still people died) was the main type of warfa
 
 This is known as Seminal: Cannot extinguish Nationalist Liberation struggle
 After China's "fall", all presidents say that her did not want to see Vietname fall like China "not on my watch" -> "Never fight in a war that the USA govt are afraid that the other government might win"
+
+---
+## Massive escalation of the Vietnam War
+LBJ (the new president of the USA), approves 100 k aditional USA Soldiers to e=be deployed to Vietnam, americanised the war.
+America is now directly involved in the war.
+14 - 17 Nov 1965: battle of La Drang valley; first major clash between regular US abd north Vietnam troops.
+USA continues bombings in North Vietnam continuosly , throughout 1967.
+
+Vietnam is the first TV war, (televised) -> this brought the war home. Protests against the war . - Increased escalation once the casualtied affected White- Middle class americans
+- Some used connections to get deferment, escape, migrate.
+- Did you serve (The rich did not go)
+- Economic stagnation of the USA, poor healthcare
+- public gets upset
+
+LBJ offers stop bombing in retrun for serious negotians with north Vietnam
+
+
+### Credibility of USA
+
+21 Nov 1967; general westmoreland reports military progress and end of war in Viet coming into view.
+He said "I see the light at the end of the tunnel"
+
+Dec 1967: North viet reiterates its position that the US Must stop bombing before serious negotians
+
+## Tet offensive: Febuary - March 1968 **
+
+Late 1967 - Preparations:
+Late 1967: North vietnamese and viet cong forces began preparations for a major offensive, intending to strike a decisive blow against south vietnamees and american forces. The plan was to provoke a popular uprising and topple the south vietnamese government.
+
+January 30, 1968 - The offensive begins
+the tet offensive commenced on the night of January 30, 1958 during tet lunar new year holiday, which was traditionally a time of  ceasefire. the timing caught the enemies off guard.
+
+January 31, 1968 - Major attacks:
+The offensive epanded as over 80 000 Vietcong and north vietnamese troops launched coordinated attacks on more than 100 cities and towns across south vietname, Including major targets such as Saigon (now called ho chi minh city), Hue, and Da nang.
+
+In saigon, key locations including the US Embassy were attacked. Although the attackers were repelled quickly, the Assault on the embassy was a physcological shock, demonstrating the vulnerability of even the most fortified locations.
+
+## Febuary 1-25, 1968 Battle of Hue
+one of the longest and bloodiest of the offensive. It took nearly a month for US and south Vietnamese forces to take the city from north korean trooops. The fighting resulted in Significant casualties and extensive destruction.
+USA took hue after a month of fighting.
+
+26 Feb: Mass graves of Vietcong masscare of South viet supporters. 2.5k bodies
+28 Feb: 206k additional USA troops request was approved
+
+### 16 M

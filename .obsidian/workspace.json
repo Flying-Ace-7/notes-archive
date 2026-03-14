@@ -41,16 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/History/Y3 History/Utility SBQ.md",
+                "file": "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Utility SBQ"
+              "title": "Vietnam War"
+            }
+          },
+          {
+            "id": "d27059c8578d41ba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -271,19 +281,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d00235c70e954fc4",
+  "active": "d27059c8578d41ba",
   "lastOpenFiles": [
+    "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
     "Subjects/History/Y3 History/Utility SBQ.md",
     "Subjects/History/Y3 History/Cold War/Post-WWII.md",
-    "Subjects/History/Y3 History/Cold War/Truman Doctrine.md",
     "Zero-Sum.md",
+    "README.md",
+    "Subjects/History/Y3 History/Cold War/Truman Doctrine.md",
     "Subjects/History/Y3 History/Vietnam/Vietnam war Timeline.md",
     "Subjects/History/Y3 History/Cold War/Cold War I.md",
     "Subjects/History/Y3 History/Cold War/Cold War II.md",
     "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
-    "README.md",
     "Subjects/History/Y3 History/Korean war/Korean War I.md",
-    "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
     "Schooling subjects.md",
     "New Text Document.txt",
     "Notes.base",
