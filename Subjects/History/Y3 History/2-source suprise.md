@@ -102,5 +102,3 @@ Although diff, Base Source had a purpose so not suprising that they contradict.
 
 _1 source has a dubious purpose, as Soucre E  has a dubious purpose as E blames stalin for Kirov affair and criticises Stalin for hypocrisy, him doing it for his self interest of obtaining power. This is becasue e wants USA to accept him into asylum, and thus knows that his account will be of value to USA and to prove his loyalts_
 Source E has an Agenda it is not Suprising that it will contradict F.
-
-
