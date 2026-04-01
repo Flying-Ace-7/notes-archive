@@ -3,10 +3,14 @@
 
 
 Eg qns:
+
 >[!tip] Example questions
 >Does reading source E make source F suprising? EYA (Let this be type 1)
 >
 > Does Source E make Source F Suprising? EYA (Let this be type 2)
+> Base source is in simple terms, the _first source you read for the question._ In type 1, you would read source F first. In type 2, you would read _source E_ first.
+
+
 
 
 ### Type 1:
@@ -20,6 +24,16 @@ Match E's M and F's M
 
 #### //3 CAP Source F, or x-ref base trials to one other source.
 
+
+
+### Type 2: 
+Source E is the base source.
+
+CAP source E.
+
+
+
+## Types of CAP
 if x-ref:
 let soucre X be the third source, or ck.
 	IF both source E and X supports F, I am **not suprised** at F
@@ -79,9 +93,3 @@ _1 source has a dubious purpose, as Soucre E  has a dubious purpose as E blames 
 Source E has an Agenda it is not Suprising that it will contradict F.
 
 
-
-
-### Type 2: 
-Source E is the base source.
-
-CAP source E.
