@@ -5,7 +5,8 @@
 > - To sustain life
 > - Produce energy
 
-[[History MOC]]
+[[Biology MOC]]
+
 
 Metabolism can be split into to _two main processes_:
 
