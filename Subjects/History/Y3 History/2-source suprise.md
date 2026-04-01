@@ -4,6 +4,7 @@
 
 Eg qns:
 
+
 >[!tip] Example questions
 >Does reading source E make source F suprising? EYA (Let this be type 1)
 >
@@ -35,12 +36,20 @@ CAP source E.
 
 ## Types of CAP
 if x-ref:
+(taking F to be base soucre here)
 let soucre X be the third source, or ck.
 	IF both source E and X supports F, I am **not suprised** at F
 	If one source contradict, one support 
 	- (although e support F, X challenge F, therfore i am **suprised** at F),
 	 - (Although source e challenges F, X supports F, therfore I am **not suprised at F**)
 	If both source E and X challenges F, I am  **suprised** at source F.
+
+A simple way to remeber this:
+- wether e supports or challenges is insignificant for the conclusion
+- IF X supports F, -> not suprised at F
+- If X challenges F -> Suprised at F
+
+thats it
 
 If CAP (DP or ER):
 
@@ -65,12 +74,14 @@ Scaffold:
 
 Type 3:
 Differing time period -> Not suprised.
-Example:
-Source B : Source B's author is not attatched.
-Source G: Source G's author is attatched.
 
-G's statement on Dec 2025. 
-B's statement on 9 Feb 2026.
+> [!Example]
+> Source B : Source B's author is not attatched.
+> Source G: Source G's author is attatched.
+> G's statement on Dec 2025. 
+> B's statement on 9 Feb 2026.
+> _Final statement: _ Source G was written (date) before The great break. They broke up .... This would cause Source B's author to be different. Hence even though B and G differ, I AM not suprised.
+
 
 Requries Ck of knowledge on time period between, a major event.
 
