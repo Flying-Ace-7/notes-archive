@@ -65,24 +65,55 @@ He said "I see the light at the end of the tunnel"
 
 Dec 1967: North viet reiterates its position that the US Must stop bombing before serious negotians
 
-## Tet offensive: Febuary - March 1968 **
+## Tet offensive: Febuary - March 1968
 
-Late 1967 - Preparations:
+Late 1967 - Preparations.
 Late 1967: North vietnamese and viet cong forces began preparations for a major offensive, intending to strike a decisive blow against south vietnamees and american forces. The plan was to provoke a popular uprising and topple the south vietnamese government.
 
 January 30, 1968 - The offensive begins
-the tet offensive commenced on the night of January 30, 1958 during tet lunar new year holiday, which was traditionally a time of  ceasefire. the timing caught the enemies off guard.
+the tet offensive commenced on the night of January 30, 1958 during tet lunar new year holiday, which was traditionally a time of  ceasefire. the *timing caught the enemies off guard*.
 
 January 31, 1968 - Major attacks:
 The offensive epanded as over 80 000 Vietcong and north vietnamese troops launched coordinated attacks on more than 100 cities and towns across south vietname, Including major targets such as Saigon (now called ho chi minh city), Hue, and Da nang.
 
-In saigon, key locations including the US Embassy were attacked. Although the attackers were repelled quickly, the Assault on the embassy was a physcological shock, demonstrating the vulnerability of even the most fortified locations.
+In saigon, key locations including the US Embassy were attacked. The Viet cong were able to infiltrate the US Embassy and attack live on camera, delivering great shocks to the Americans. Although the attackers were repelled quickly, the Assault on the embassy was a physcological shock, demonstrating the vulnerability of even the most fortified locations.
 
-## Febuary 1-25, 1968 Battle of Hue
+### Febuary 1-25, 1968 Battle of Hue
+
+
 one of the longest and bloodiest of the offensive. It took nearly a month for US and south Vietnamese forces to take the city from north korean trooops. The fighting resulted in Significant casualties and extensive destruction.
+
 USA took hue after a month of fighting.
 
-26 Feb: Mass graves of Vietcong masscare of South viet supporters. 2.5k bodies
-28 Feb: 206k additional USA troops request was approved
+26 Feb: Mass graves of Vietcong masscare of South viet supporters. 2.5k bodies. Resulted from the Battle of Hue.
 
-### 16 M
+28 Feb: 206k additional USA troops request was approved, to just totally eliminate the other party (Viet Cong)
+
+### 16 March 1968 My Lai Massacre (The most famous massacre of the war)
+
+An american Infantry company killed 504 unresisting Vietnamese civilians in the My Lai and my Kho areas of Son My Village. Why?
+They recieved news that there were a lot of communist hiding in those areas, and they went there to arrest and capture the communists and raided the villages.
+But, they only saw elderly and children, no men. Yet, they still opened fire.
+
+**However, this was not reported in the U.S until November 1969, when investigative journalists uncovered the story**. Why? The media where able to cpture and record the raids, but they **did not** report them in newpapers, radios etc. The soldiers seeing that there were no men, did mass brutality against the people, and to preserve the credibility of US Soldiers, they did not report it. This is to prevent the public distaste of the war.
+
+### February - March 1968 -> Aftermath and Impact:
+By the end of March, most of the Tet Offensive had been repelled, with _heavily casualities on both sides_. **Although militarily a failure for the North Vietnamese and Viet Cong(who suffered substantial losses without achieveing primary objectives), the offensive had a profound physcological and political impact.**
+However, although the Americans are technically won the offensice, the intensity and scale of the attacks shocked the American public and media, contradicting previous claims by U.S leaders that victory was close. **This lead to a growing anti-war sentiment and a loss of confidence in the US government's handling of the war**.
+
+For South Vietnam and the United States, although they eventually regained control, the offensive exposed vulnerabilites and led to **questions about the effectiveness of their military strategy.**
+
+In March 31 1968, there was a policy shift towards peace talks. No more bombings, and peace talks will begin.
+
+### 1968 Chennault Affair
+- Richard Nixon through _Anna Chennault_, a Republic supporter, encouraged South Vietnam to stall peace talks with North Vietnam, believing that delaying negotitiations will improve Nixon's chances of presidency against then-Vice president Hubert Humphery, which prolonged the wat, Nixon supposedly promised pease during his term.
+- USA begins Operation menu, the secret bombing of Cambodia, to destroy the Ho Chin minh Trail.
+- US troop strength reaches peak strength in April at more than 500k.
+
+## Gradual withdrawal of USA: Vietnamization policy
+- 8 Jun 1969: Nixon announces withdrawal of 25k troops, as beginning of gradual reduction.
+- 25 July: Nixon declares in his own **Nixon Doctrine**  that USA will aid allies, but they must be responsible for their own defence. The previous [[Truman Doctrine]] was about policy of containment, while the Nixon Doctrine is slightly different.
+- 2 september 1969: Ho Chi Minh dies (skull emoji)
+- Oct-Nov 1969: More demonstrations against the Viet War occur across USA
+- 24 Jun 1970: US Senate repeals Gulf of Tonkin Resolution (which authorised direct intervention in Vietnam), withdraws from cambodia in 1970
+
