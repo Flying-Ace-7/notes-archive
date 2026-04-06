@@ -107,7 +107,7 @@ In March 31 1968, there was a policy shift towards peace talks. No more bombings
 
 ### 1968 Chennault Affair
 - Richard Nixon through _Anna Chennault_, a Republic supporter, encouraged South Vietnam to stall peace talks with North Vietnam, believing that delaying negotitiations will improve Nixon's chances of presidency against then-Vice president Hubert Humphery, which prolonged the wat, Nixon supposedly promised pease during his term.
-- USA begins Operation menu, the secret bombing of Cambodia, to destroy the Ho Chin minh Trail.
+- USA begins Operation menu, the secret bombing of Cambodia, to destroy the Ho Chin minh Trail. Accelerated bombing.
 - US troop strength reaches peak strength in April at more than 500k.
 
 ## Gradual withdrawal of USA: Vietnamization policy
@@ -116,4 +116,32 @@ In March 31 1968, there was a policy shift towards peace talks. No more bombings
 - 2 september 1969: Ho Chi Minh dies (skull emoji)
 - Oct-Nov 1969: More demonstrations against the Viet War occur across USA
 - 24 Jun 1970: US Senate repeals Gulf of Tonkin Resolution (which authorised direct intervention in Vietnam), withdraws from cambodia in 1970
+
+## Well oops
+
+- 30 March 1972: North Vietnam launc Easter Offensive intended to topple Thieu Govt (revolving door of Military govt in South Vietnam, constant rotation of military generals)
+- April 1972: USA bombs North Vietname, and orders Operation Linebacker in May for the heavy bombing of NV military supply network in Haiphong/
+
+## "Peace with Honour"
+- 27 Jan 1973: Paris peace accords signed by USA, DRV, Republic of Vietnam, Provisional Revoluntionary Government
+- But fighting continues in Vietnam, military draft in USA formally ends.
+- USA congress overrides Nixon's Veto and passes War powers resolution which limits presidential authority to send troops into combat abroad.
+- Deep cuts to military aids to (south vietnam)
+
+## 9 August 1974: Watergate Scandal
+
+Richard Nixon resigns in 1974, disgrace for him.
+
+
+## North Vietnamese Road to Victory
+They launched Spring offensive, to capture:
+- Central highlands
+- Hue
+- Danang
+
+29 April 1975: Operation White Christmas: Americans remaining in Saigon begin making desperate last minute escapes by helicopters from building rooftops as North Vietnames and vietcong troops enter the city. Many south Vietnamese closely associated with the USA are left behind. thats sad :( . so cruel.
+
+30 April: North Vietnamese forces capture Saigon and rename it to Ho Cho Minh, _ending the Vietnam War_. Socialist republic of Vietnam joins [Comecon]([[Post-WWII#COMECON]])
+
+
 
