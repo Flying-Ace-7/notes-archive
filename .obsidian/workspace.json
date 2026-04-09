@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assertion Y3 Revision.md",
+                "file": "Subjects/History/Y3 History/Cold War/Cold War II.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assertion Y3 Revision"
+              "title": "Cold War II"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/History/Y2 History/British in SEA/Assertion.md",
+                "file": "Assertion Y3 Revision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assertion"
+              "title": "Assertion Y3 Revision"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tet offens",
+                "query": "Causes ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -243,10 +245,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4be356f63fe792bd",
+  "active": "b3aea2171f9fcc50",
   "lastOpenFiles": [
-    "Subjects/History/Y2 History/British in SEA/Assertion.md",
+    "Subjects/History/Y3 History/Cold War/Cold War II.md",
     "Assertion Y3 Revision.md",
+    "Subjects/History/Y2 History/British in SEA/Assertion.md",
     "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
     "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
     "Subjects/History/Y3 History/2-source suprise.md",
@@ -264,7 +267,6 @@
     "README.md",
     "Subjects/History/Y3 History/Vietnam/Vietnam war Timeline.md",
     "Subjects/History/Y3 History/Cold War/Cold War I.md",
-    "Subjects/History/Y3 History/Cold War/Cold War II.md",
     "Subjects/History/Y3 History/Korean war/Korean War I.md",
     "Schooling subjects.md",
     "New Text Document.txt",
