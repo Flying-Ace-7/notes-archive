@@ -93,3 +93,43 @@ Possible Explanation ->
 	- Increased Tensions from \_\_ to \_\_
 	- Worsen Relations from \_\_ to \_\_
  
+
+
+
+### LORMS
+
+
+L2: 1 Yes OR 1 No para L2/3
+	2 Yes OR 2 No L2/4
+
+L3: Y AND N para
+		-> L3/6-9
+	2Y + 1 N L3/7
+	2Y+2N-> L3/8-9 if any para is weak, L3/8
+
+
+
+BONUS L4 (still compulsory)
+
+bonus comes fron reliabilty tests, and balanced conclusions in the answer.
+
+Reliability test:
+Doing a reliabilty source per source gives +1 each, maxed out at 2 bonus marks.
+You cannot repeat reliabilty tests in earlier qns
+Note: You **cannot** do X-ref to other sources.
+_Reliabilty tests allowed: X-Ref to CK, DP, ER, hindsight_
+**REMEMBER TO CR ATQ**
+
+Balanced Conclusion:
+
+Type 1:
+Using reliability tests( Must have done for all sources)
+
+Overall, Since the disagree sources are reliable, i disagree with the statement , as the agree sources are unreliable.
+
+Type 2: Criteria based
+- 2.1 Time based
+	- _For eg. soucre a,b,c all disagree before a certain date, after the date where an event occured, sources d and e agree_ 
+	- 
+- 2.2 Factor
+	- 
