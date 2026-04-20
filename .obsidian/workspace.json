@@ -69,16 +69,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/History/Y3 History/Cold War/End of Cold war.md",
+                "file": "Subjects/History/Y3 History/Assertion Y3 Revision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "End of Cold war"
+              "title": "Assertion Y3 Revision"
+            }
+          },
+          {
+            "id": "9d6d991353cbad6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vietnam War"
+            }
+          },
+          {
+            "id": "515ed0144ce5ebe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Chemistry/Chemistry MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chemistry MOC"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -110,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Causes ",
+                "query": "Tet Offensive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +159,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -286,13 +315,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81f2a6200a5d5d0c",
+  "active": "515ed0144ce5ebe6",
   "lastOpenFiles": [
-    "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
-    "Subjects/History/Y3 History/Cold War/End of Cold war.md",
     "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
-    "Subjects/History/Y3 History/2-source suprise.md",
     "Subjects/History/Y3 History/Assertion Y3 Revision.md",
+    "Subjects/History/Y3 History/Cold War/End of Cold war.md",
+    "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
+    "Subjects/History/Y3 History/2-source suprise.md",
     "Subjects/History/Y2 History/British in SEA/Assertion.md",
     "Subjects/History/Y3 History/Cold War/Cold War II.md",
     "Subjects/Biology/Y3 Biology/Metabolism.md",
