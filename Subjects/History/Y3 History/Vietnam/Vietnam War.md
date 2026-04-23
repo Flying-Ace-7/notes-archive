@@ -67,6 +67,12 @@ Dec 1967: North viet reiterates its position that the US Must stop bombing befor
 
 ## Tet offensive: Febuary - March 1968
 
+
+#### AIMS OF TET OFFENSIVE:
+- Achieve sovergnity
+- reunification of south vietnam and north vietnam
+- Reduce american intervention
+
 Late 1967 - Preparations.
 Late 1967: North vietnamese and viet cong forces began preparations for a major offensive, intending to strike a decisive blow against south vietnamees and american forces. The plan was to provoke a popular uprising and topple the south vietnamese government.
 

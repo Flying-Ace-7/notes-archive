@@ -111,22 +111,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organic Chemisrtry Intro.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organic Chemisrtry Intro"
+              "title": "README"
             }
           },
           {
-            "id": "fb6911b9ae7945ec",
+            "id": "f11e139063b697c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vietnam War"
             }
           }
         ],
@@ -183,7 +187,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -341,6 +346,8 @@
   },
   "active": "9e5fd27aa508d4d1",
   "lastOpenFiles": [
+    "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
+    "README.md",
     "Organic Chemisrtry Intro.md",
     "Ink/Drawing/2026.4.23 - 8.26am.drawing",
     "Ink/Drawing/2026.4.23 - 8.25am.drawing",
@@ -353,7 +360,6 @@
     "Ink/Drawing/2026.4.23 - 8.13am.drawing",
     "Ink/Drawing/2026.4.23 - 8.12am.drawing",
     "Ink/Drawing/2026.4.23 - 8.11am.drawing",
-    "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
     "Subjects/History/Y3 History/Assertion Y3 Revision.md",
     "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
     "Subjects/Chemistry/VSEPR.md",
@@ -372,7 +378,6 @@
     "Subjects/History/Y3 History/Cold War/Post-WWII.md",
     "Subjects/History/Y3 History/Cold War/Blockade of berlin.md",
     "Zero-Sum.md",
-    "README.md",
     "Subjects/History/Y3 History/Vietnam/Vietnam war Timeline.md",
     "Subjects/History/Y3 History/Cold War/Cold War I.md",
     "Subjects/History/Y3 History/Korean war/Korean War I.md",
