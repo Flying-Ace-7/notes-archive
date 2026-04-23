@@ -1,7 +1,41 @@
-README ver: 0.1
+README ver: 0.1.1
+
+## Contents of Notes:
+
+### Subjects covered
+
+- History
+- Math
+- Biology
+- Physics
+- Chemistry
+
+(In order of extensivenes)
+
+### Structure of Notes:
+
+All of my notes are contained within the Subjects folder, which if further divided based on subject.
+Notes follow a MOC Structure, if you are familiar with dataview in obsidian this might seem familiar to you.
+All notes of a certain subject are linked to that subject's MOC.
+
+> For example, all my history notes are linked to the History MOC . If any are left out, they are an error, and will be fixed.
 
 
-> [!tip] Welcome to my notes archive.
+### Essential Plugins (Obsidian)
+
+1. Dataview
+	- To view the backlinks to MOC
+2.  Ink
+	-  To view certain Illustrated diagrams and drawing.
+3. Timeline
+	- To view timelines in my notes
+	- Note: Not used much, notes will be fine without it if not available. 
+4. Highlightr 
+	- I have higlighted info in my notes, and without the plugin, i believe the highlighted portions would look unsighlty (it looks lkie rambled code).
+
+
+> [!npte] Highscool Notes
+> Welcome to my notes archive.
 > My notes are crafted through years of academic trials and experience. Please feel free to use them to read up. Note that some notes are still work in progress.
 > Suitable levels for these notes: Grades 8-12
 
@@ -35,3 +69,5 @@ Alternatively, you can use this with any text editors, just that some features w
 Hope this helps you.
 
 Thanks
+
+
