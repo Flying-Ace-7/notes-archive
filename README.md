@@ -1,4 +1,4 @@
-README ver: 0.1.2
+README ver: 0.1.3
 
 
 > [!note] Highscool Notes
@@ -22,10 +22,9 @@ You can run the pull command to refresh and update the notes.
 2. Unzip it into any location.
 3. Make a new obsidian vault by importing the vault into obsidian. 
 	Refer to: [Create vault from existing folder](https://obsidian.md/help/manage-vaults#Create+vault+from+an+existing+folder) for more information. Note that the folder you would want to use as the vault _should_ contain the `Subjects` and `.obsidian` folder and other folders you downloaded. 
-	To check if they are present, open the downloaded folder and clicke `View` on the toolbar of file explorer, and go to View, make sure `Hidden Items` is checked
-	![[Pasted image 20260429191531.png]]
-4. 
-
+	To check if they are present, open the downloaded folder and click `View` on the toolbar of file explorer, and go to View, make sure `Hidden Items` is checked
+	(refer below)
+	![250](https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00MDg4NTIyLTU2MjUxN2k2NzQ1RUZCMUI2QzI2RDQ1?image-dimensions=400x400&revision=1)
 
 OR
 ##### Method 3:
@@ -63,6 +62,8 @@ All notes of a certain subject are linked to that subject's MOC.
 
 > For example, all my history notes are linked to the History MOC . If any are left out, they are an error, and will be fixed.
 
+[[Schooling subjects]] is currently my main note. Further information can be found there.
+
 ---
 
 
@@ -78,7 +79,7 @@ _Instead downloading all these plugins manually, you can also just copy the file
 	-  To view certain Illustrated diagrams and drawing.
 3. Timeline
 	- To view timelines in my notes
-	- Note: Not used much, notes will be fine without it if not available. 
+	- Note: Not used much, notes will be fine without it if not available. Usage currently only in notes in History/Y3 History/Vietnam War
 4. Highlightr 
 	- I have higlighted info in my notes, and without the plugin, i believe the highlighted portions would look unsighlty (it looks lkie rambled code).
 
@@ -90,9 +91,5 @@ _Instead downloading all these plugins manually, you can also just copy the file
 
 - Serve as a back up for my notes
 - Allow me to practice git 
----
-Hope this helps you.
-
-Thanks
-
-
+- Allow others to benefit with my help
+- Help others grow
