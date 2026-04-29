@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schooling subjects.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schooling subjects"
+              "title": "README"
+            }
+          },
+          {
+            "id": "ed76fa18456c5536",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://obsidian.md/help/manage-vaults#Create+vault+from+an+existing+folder",
+                "title": "Manage vaults - Obsidian Help",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Manage vaults - Obsidian Help"
             }
           },
           {
@@ -261,15 +275,16 @@
   },
   "active": "c2b3916cb396be23",
   "lastOpenFiles": [
-    "Subjects/Physics/Physics MOC.md",
+    "Pasted image 20260429191531.png",
+    "README.md",
     "Schooling subjects.md",
+    "Subjects/Physics/Physics MOC.md",
     "Subjects/History/Y3 History/2-source suprise.md",
     "Subjects/History/Y3 History/Assertion Y3 Revision.md",
     "Subjects/History/Y2 History/British in SEA/Assertion.md",
     "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
     "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
     "Subjects/History/Y3 History/Vietnam/Colonisation of Vietnam.md",
-    "README.md",
     "Subjects/Chemistry/Chemical Bonding.md",
     "Daily Notes/2025-06-29.md",
     "Daily Notes/2025-06-25.md",
@@ -296,7 +311,6 @@
     "Subjects/History/Y3 History/Utility SBQ.md",
     "Subjects/History/Y3 History/Cold War/Truman Doctrine.md",
     "Subjects/History/Y3 History/Cold War/Post-WWII.md",
-    "Subjects/History/Y3 History/Cold War/Blockade of berlin.md",
     "Pasted image 20260309092947.png",
     "Subjects/History/Y2 History/History revision Trust.canvas",
     "Redundant/Images/Pasted image 20250913125341.png",
