@@ -25,23 +25,32 @@
             "id": "c2b3916cb396be23",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Schooling subjects.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Schooling subjects"
             }
           },
           {
             "id": "be53e11aeebbec62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Physics/Physics MOC.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Physics MOC"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,8 +259,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4a18dffcb8392a48",
+  "active": "c2b3916cb396be23",
   "lastOpenFiles": [
+    "Subjects/Physics/Physics MOC.md",
+    "Schooling subjects.md",
     "Subjects/History/Y3 History/2-source suprise.md",
     "Subjects/History/Y3 History/Assertion Y3 Revision.md",
     "Subjects/History/Y2 History/British in SEA/Assertion.md",
@@ -286,8 +297,6 @@
     "Subjects/History/Y3 History/Cold War/Truman Doctrine.md",
     "Subjects/History/Y3 History/Cold War/Post-WWII.md",
     "Subjects/History/Y3 History/Cold War/Blockade of berlin.md",
-    "Zero-Sum.md",
-    "Subjects/History/Y3 History/Vietnam/Vietnam war Timeline.md",
     "Pasted image 20260309092947.png",
     "Subjects/History/Y2 History/History revision Trust.canvas",
     "Redundant/Images/Pasted image 20250913125341.png",
