@@ -22,6 +22,10 @@ All notes of a certain subject are linked to that subject's MOC.
 
 
 ### Essential Plugins (Obsidian)
+It is recommended to have the following plugins to view the notes to the fullest potential.
+**It is not needed to download if you use the methods 1 and 2 below to download, as the plugins will be copied over.**
+Plugins location: `\.obsidian\plugins` 
+_Instead downloading all these plugins manually, you can also just copy the files in these plugins folders to the plugins folder of your own vault._
 
 1. Dataview
 	- To view the backlinks to MOC
@@ -34,7 +38,7 @@ All notes of a certain subject are linked to that subject's MOC.
 	- I have higlighted info in my notes, and without the plugin, i believe the highlighted portions would look unsighlty (it looks lkie rambled code).
 
 
-> [!npte] Highscool Notes
+> [!note] Highscool Notes
 > Welcome to my notes archive.
 > My notes are crafted through years of academic trials and experience. Please feel free to use them to read up. Note that some notes are still work in progress.
 > Suitable levels for these notes: Grades 8-12
@@ -43,18 +47,26 @@ All notes of a certain subject are linked to that subject's MOC.
 ## How to load and use these notes
 Preferred text editor: Obsidian
 
-##### Using Git Bash:
+##### Method 3: Using Git Bash:
 1. Open a local file in bash, where you want the notes to be
 2. Run `git init`
 3. Run `git remote add origin "https://github.com/Flying-Ace-7/notes-archive.git"`
 4.  Run `git pull origin main -u`
 You can run the pull command to refresh and update the notes.
 
-##### Using ZIP File
-Download this entire Obsidian vault as a zip file.
-Unzip it into any location.
-Make a new obsidian vault by importing the vault into obsidian.
+##### Method 2: Using ZIP File
+1. Download this entire Obsidian vault as a zip file.
+2. Unzip it into any location.
+3. Make a new obsidian vault by importing the vault into obsidian.
+OR
 
+##### Method 3:
+Copy over the `Subjects` Folder into your existing obsidian vault.
+Ensure that the essential plugins are present in the plugins folder for optimal viewing
+
+
+
+##### Method 4:
 Alternatively, you can use this with any text editors, just that some features will not be available. The notes are in (.md) markdown format, so you are free to use whatever suits your liking.
 
 
