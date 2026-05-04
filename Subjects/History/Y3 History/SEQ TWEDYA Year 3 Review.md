@@ -22,7 +22,10 @@ We need present both Yes and No paragraphs
 
 L1/1-2 : Pity marks, write something
 L2/3-6 : Yes **OR** No
-L3/7-9: Yes **AND** No
+L3/7-10: Yes **AND** No
+
+4th para // of balanced conclusion
+L3/9-10 + BC -> L4/11-12
 
 
 
@@ -51,4 +54,18 @@ All examples taken from [[Vietnam War]],[[Decolonisation of vietnam]].
 Stand: No, I disagree with the statement as ...
 P2Ex(2)Exp
 Point: *American intervention* made the Vietnam war a proxy war for them to achieve their aims to _contain communism_. 
-Ex:
+Ex: 
+- Domino Theory: Despite reservations of Diem and his incapability/personality flaws, propped diem into power after the french failure at the Battle of Dien Bien Phu and geneva accords
+- American view the vietnamese as inferior , referring to them as a "pissant country", army in pyjamas
+- Preseident Johnson sanctioned coup in North Vietnam to overthrow the diem government. Diem and Nhu were arrested, and were assasinated on the journey back to military headquaters
+
+Exp: American claims to protect the south vietnamese from the antagonism of the north vietnamese was hypocritical and not their priority. Instead, it was to protect their own national interests to ensure that communsim does not spread to other countries in south east easia in order for them to secure their economic and political interests in the reigion. Hence, the south vietnamese became thier puppet as USA propped up only those that they deem of purpose to their cause of containing communism.
+
+### Balanced conclusion
+
+[[British SEQ II#Balanced Conclusion]]
+
+-> Use Root cause, Factor 1 led to factor 2
+Or
+-> Use Time period. 
+Eg. Vietnam war was initially a civil war befor direct american intervention, and ended as a civil war after peace conference and American withdrawal. Vietnamisation of the ar as south vietnam government relied totally on US military and money support: (Add relvant EX HERE) 
