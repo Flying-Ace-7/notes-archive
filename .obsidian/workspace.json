@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Biology/Biology_Olympiad/Protisits.md",
+                "file": "SEQ TWEDYA Year 3 Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protisits"
+              "title": "SEQ TWEDYA Year 3 Review"
+            }
+          },
+          {
+            "id": "9e37241ac747f152",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Causes of War (MAI/Main causes of war (MAIENN).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Main causes of war (MAIENN)"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Meiosis",
+                "query": "Main causes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,8 +247,11 @@
   },
   "active": "90186b514979f709",
   "lastOpenFiles": [
-    "Subjects/Biology/Biology_Olympiad/Biology Olympiad MOC.md",
+    "Main Causes of War (MAI/Main causes of war (MAIENN).md",
+    "SEQ TWEDYA Year 3 Review.md",
+    "Main Causes of War (MAI",
     "Subjects/Biology/Biology_Olympiad/Protisits.md",
+    "Subjects/Biology/Biology_Olympiad/Biology Olympiad MOC.md",
     "README.md",
     "Subjects/Physics/Physics MOC.md",
     "Pasted image 20260429191531.png",
@@ -257,7 +275,6 @@
     "Ink/Drawing/2026.4.23 - 8.14am.drawing",
     "Ink/Drawing/2026.4.23 - 8.13am.drawing",
     "Ink/Drawing/2026.4.23 - 8.12am.drawing",
-    "Ink/Drawing/2026.4.23 - 8.11am.drawing",
     "Subjects/Chemistry/VSEPR.md",
     "Subjects/Chemistry/Chemistry MOC.md",
     "Subjects/History/Y3 History/Cold War/End of Cold war.md",
@@ -267,8 +284,6 @@
     "Subjects/Biology/Y3 Biology/Nervous System.md",
     "Subjects/Biology/Y3 Biology/Excretory Processes.md",
     "Subjects/Biology/Heredity Pre-Blurt sheet.md",
-    "Subjects/History/Y3 History/Utility SBQ.md",
-    "Subjects/History/Y3 History/Cold War/Truman Doctrine.md",
     "Pasted image 20260309092947.png",
     "Subjects/History/Y2 History/History revision Trust.canvas",
     "Redundant/Images/Pasted image 20250913125341.png",
