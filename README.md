@@ -1,4 +1,4 @@
-README ver: 0.1.3
+README ver: 0.1.4
 
 
 > [!note] Highscool Notes
@@ -13,9 +13,8 @@ Preferred text editor: Obsidian
 ##### Method 1: Using Git Bash:
 1. Open a local file in bash, where you want the notes to be
 2. Run `git init`
-3. Run `git remote add origin "https://github.com/Flying-Ace-7/notes-archive.git"`
-4.  Run `git pull origin main -u`
-You can run the pull command to refresh and update the notes.
+3. Run `git clone https://github.com/Flying-Ace-7/notes-archive.git`
+
 
 ##### Method 2: Using ZIP File and converting into an Obsidian Vault
 1. Download this entire Obsidian vault as a zip file.
