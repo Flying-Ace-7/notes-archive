@@ -39,3 +39,44 @@ It insulates the electrical signal during signal conduction in the axon.
 In the peripheral nervous system, mylein sheath is formed by schwan cells.
 
 The gaps in the mylein sheath in are known as Nodes of Ravenier. Sodium ion channels are concentrated in those nodes, and hence signal regneration occurs there. Signal conduction is faster in myleinated axons rather than non-myleinated axons.
+
+The insulation provided by the mylein sheath helps prevent the loss of electrical signals as the leakage of Na + ions is reduced.
+
+#### Saltatory Conduction
+Strong electrical signals travelling fron triger zone to synaptic terminals, with the help of both mylein sheats and nodes of ravenierm faster than neurons with no mylien sheath as no saltatory conduction occurs.
+Note that the strength of electrical signals in mylienated vs unmylienated axons are the same.
+
+
+### Case study of Gullian-Bare Syndrome
+
+-> Auto-Immune disease where the schwann cells are damaged, leading to de-mylienation of the neurons in PNS
+
+Without the mylein sheath, Na+ ions are able to leak outside the axon, hence, more Na + ions are required to taken in for signal regeneration at the nodes of ravenier, when compared to that of a healthy person. When there is more leakage and it is too much, the electrical signals are lost, as the electrical signals are weakened significantly. Furthermore, signal conduction takes longer to occur as more regeneration of electrical signals is required. this can cause the motot neurons to be unable to conduct electrical signals to the muscles, causing muscle weakness and paralysis, and if the sensory neurons are unable to conduct electrical signals to the brain, this will cause numbness.
+
+
+
+### Synapses
+Synapse is the connection between a neuron and another cell (neuron or effector).
+This is to facilitate Signal transmission, through neurotransmitters which are chemical signals, across the synaptic cleft (the gap between them.)
+From one axon terminal fo the _presynaptic_ neuron to the dendrite of the _postsynaptic_ neuron / effectorz
+
+### Signal Transmission
+Axon Terminal : Bulbed-shaped terminal at the end of the axon
+Synaptic Vessicles: Contain chemical signals (Neurotransmitters)
+Synaptic Cleft: The space in between target cell and neuron
+Receptor sites: Trigger opening of Na ion channels to generate weak electrical signals through Neurotransmitter binding
+
+When strong electrical signals are conducted ot the axon terminal, <mark class="hltr-orange">synaptic vessicles</mark> are transported to the edge of the membrane of the axon terminal. They fuse with the membrabane of the axon terminal, and release the <mark class="hltr-orange">neurotransmitters</mark> in the synaptic vessicels into the <mark class="hltr-green">synaptic cleft</mark>, (the gap between the  two neurons). the Neurotransmitters diffuse across the cleft and bind to <mark class="hltr-blue">the Neurotransmitter receptors in the postsynaptic neuron</mark>/ effector cell, which will generate weak electrical signals by triggering the <mark class="hltr-blue">opening of Na+ ion channels</mark> in the postsyanptic neuron.
+
+
+#### Adaptations of the synaptic terminal
+
+- Bulb shaped
+	- Increase surface are: volume ratio
+	- hence, release more NeuroTransmitters
+	- Greater volume of cytoplasm to contain more synaptic vessicles
+- Mitochondrion
+	- Produce ATP
+	- to move more vessicles to the membrane of te axon terminal
+	- release more neurotransmitters
+
