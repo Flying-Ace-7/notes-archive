@@ -53,6 +53,10 @@ Note that the strength of electrical signals in mylienated vs unmylienated axons
 
 Without the mylein sheath, Na+ ions are able to leak outside the axon, hence, more Na + ions are required to taken in for signal regeneration at the nodes of ravenier, when compared to that of a healthy person. When there is more leakage and it is too much, the electrical signals are lost, as the electrical signals are weakened significantly. Furthermore, signal conduction takes longer to occur as more regeneration of electrical signals is required. this can cause the motot neurons to be unable to conduct electrical signals to the muscles, causing muscle weakness and paralysis, and if the sensory neurons are unable to conduct electrical signals to the brain, this will cause numbness.
 
+-> Why will they take a longer time to recover or never fully recover:
+Re Mylenation by schwan cells takes a longer time if damage is too excessive.
+it takes one cell to divide into two, and if there are no schwan cells left, no more cells can be formed, no full recovery from this. It takes time for the cell division of schwan cells to divide and grow in number, new schwan cells are smaller in size, needing longer time for recvoery .
+
 
 
 ### Synapses

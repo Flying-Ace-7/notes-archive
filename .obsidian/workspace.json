@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reflex Actions.md",
+                "file": "Singal Conduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reflex Actions"
+              "title": "Singal Conduction"
             }
           }
         ],
@@ -247,8 +247,8 @@
   },
   "active": "0f4f1e0cfc8ec1f6",
   "lastOpenFiles": [
-    "Cross-Section of Spinal cord.png",
     "Reflex Actions.md",
+    "Cross-Section of Spinal cord.png",
     "Singal Conduction.md",
     "Neuron Cell Diagram.png",
     "Subjects/Biology/Y3 Biology/Nervous System.md",
@@ -293,7 +293,6 @@
     "Redundant/Images/Pasted image 20250723190649.png",
     "Redundant/Images/Pasted image 20250803165426.png",
     "Redundant/Images/Pasted image 20250729175531.png",
-    "Redundant/Images/Pasted image 20250723191049.png",
     "Subjects/Math/Trigo/Trig(AAG).canvas"
   ]
 }
