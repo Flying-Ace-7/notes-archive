@@ -1,5 +1,5 @@
 README ver: 0.1.4
-Vault version : 0.1.1
+Vault version : 0.1.2
 
 > [!note] Highscool Notes
 > Welcome to my notes archive.
