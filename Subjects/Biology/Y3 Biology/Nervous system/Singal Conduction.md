@@ -46,6 +46,8 @@ The insulation provided by the mylein sheath helps prevent the loss of electrica
 Strong electrical signals travelling fron triger zone to synaptic terminals, with the help of both mylein sheats and nodes of ravenierm faster than neurons with no mylien sheath as no saltatory conduction occurs.
 Note that the strength of electrical signals in mylienated vs unmylienated axons are the same.
 
+When strong electrical signals are condcuted through the axon, the mylien sheats help prevent leakage of Na ions and hence prevent the loss of Strong electrical singals. At the modes of ravenier, signal regeneration occurs through the diffusion of Na ions into the axon across the membrane. This prevents continuous regeneration of electrical signals, hence saltatory conduciton occurs faster.
+
 
 ### Case study of Gullian-Bare Syndrome
 
