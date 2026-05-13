@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/Physics/Physics MOC.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics MOC"
+              "title": "README"
             }
           }
         ]
@@ -232,10 +232,10 @@
   },
   "active": "458e218dfc50dd4d",
   "lastOpenFiles": [
+    "Subjects/Physics/Physics MOC.md",
     "README.md",
     "Notes.base",
     "Pasted image 20260429191531.png",
-    "Subjects/Physics/Physics MOC.md",
     "Subjects/Biology/Y3 Biology/Nervous system/Nervous System.md",
     "Subjects/Biology/Y3 Biology/Nervous system/Singal Conduction.md",
     "Subjects/Biology/Y3 Biology/Nervous system",

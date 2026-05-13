@@ -93,3 +93,6 @@ _Instead downloading all these plugins manually, you can also just copy the file
 - Allow me to practice git 
 - Allow others to benefit with my help
 - Help others grow
+
+--- 
+**END OF README**
