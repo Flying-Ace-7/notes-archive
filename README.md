@@ -1,4 +1,4 @@
-README ver: 0.1.4
+README ver: 0.1.4.1
 
 
 > [!note] Highscool Notes
@@ -34,6 +34,7 @@ _Refer below for the essential plugins you need in Obsidian to use the notes to 
 
 ##### Method 4:
 Alternatively, you can use this with any text editors, just that some features will not be available. The notes are in (.md) markdown format, so you are free to use whatever suits your liking.
+(You can even just view it from github directly, who needs a text editor :P)
 
 
 

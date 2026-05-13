@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "85a496218e55c551",
+        "id": "9a189a9f97c02d91",
         "type": "tabs",
         "children": [
           {
-            "id": "2118affb03ce097b",
+            "id": "458e218dfc50dd4d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Subjects/Physics/Physics MOC.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Physics MOC"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cult of personality",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,11 +230,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2118affb03ce097b",
+  "active": "458e218dfc50dd4d",
   "lastOpenFiles": [
+    "README.md",
+    "Notes.base",
+    "Pasted image 20260429191531.png",
+    "Subjects/Physics/Physics MOC.md",
     "Subjects/Biology/Y3 Biology/Nervous system/Nervous System.md",
     "Subjects/Biology/Y3 Biology/Nervous system/Singal Conduction.md",
-    "Pasted image 20260429191531.png",
     "Subjects/Biology/Y3 Biology/Nervous system",
     "Subjects/Biology/Y3 Biology/Nervous system/Reflex Actions.md",
     "Subjects/Biology/Y3 Biology/Nervous system/Cross-Section of Spinal cord.png",
@@ -246,11 +253,9 @@
     "Subjects/History/Y2 History/British in SEA/British SEQ II.md",
     "Subjects/History/Y2 History/WWI , Communism and WWII/Communism - Rise of stalin.md",
     "Subjects/History/Main causes of war (MAIENN).md",
-    "README.md",
     "Subjects/Biology/Biology_Olympiad/Protisits.md",
     "Main Causes of War (MAI",
     "Subjects/Biology/Biology_Olympiad/Biology Olympiad MOC.md",
-    "Subjects/Physics/Physics MOC.md",
     "Schooling subjects.md",
     "Subjects/History/Y3 History/2-source suprise.md",
     "Subjects/History/Y3 History/Assertion Y3 Revision.md",
@@ -265,7 +270,6 @@
     "Ink/Drawing/2026.4.23 - 8.25am.drawing",
     "Ink/Drawing/2026.4.23 - 8.23am.drawing",
     "Ink/Drawing/2026.4.23 - 8.20am.drawing",
-    "Ink/Drawing/2026.4.23 - 8.19am.drawing",
     "Pasted image 20260309092947.png",
     "Subjects/History/Y2 History/History revision Trust.canvas",
     "Redundant/Images/Pasted image 20250913125341.png",
