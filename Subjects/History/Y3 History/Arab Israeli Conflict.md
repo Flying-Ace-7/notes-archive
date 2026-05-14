@@ -33,5 +33,4 @@ The 1956 Suez War was a joint Israeli-British-French operation, in which Israel 
 
 
 
-
 -
