@@ -29,8 +29,3 @@ The 1956 Suez War was a joint Israeli-British-French operation, in which Israel 
 	- Immediate conflict: Statelessness of Palenstinians (Pals)
 	- Impeding peace settlements: Breakdown of 78 Camp David, 93 Oslo possible because issue sidestepped
 	- Stalemate and desperation led Pals to seek more violent means.
-
-
-
-
--
