@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 README ver: 0.1.4
 Vault version : 0.1.3
+=======
+README ver: 0.1.4.1
+
+>>>>>>> 2e519e38eaf091598dcafbe356e9b8e45b8ace7d
 
 > [!note] Highscool Notes
 > Welcome to my notes archive.
@@ -34,6 +39,7 @@ _Refer below for the essential plugins you need in Obsidian to use the notes to 
 
 ##### Method 4:
 Alternatively, you can use this with any text editors, just that some features will not be available. The notes are in (.md) markdown format, so you are free to use whatever suits your liking.
+(You can even just view it from github directly, who needs a text editor :P)
 
 
 
@@ -92,3 +98,6 @@ _Instead downloading all these plugins manually, you can also just copy the file
 - Allow me to practice git 
 - Allow others to benefit with my help
 - Help others grow
+
+--- 
+**END OF README**
