@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "85a496218e55c551",
+        "id": "e7bc93efbf38c2b5",
         "type": "tabs",
         "children": [
           {
-            "id": "2118affb03ce097b",
+            "id": "79472cfc7184791b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cult of personality",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,11 +226,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2118affb03ce097b",
+  "active": "79472cfc7184791b",
   "lastOpenFiles": [
+    "README.md",
+    "Subjects/History/Y3 History/Arab Israeli Conflict.md",
+    "Pasted image 20260429191531.png",
+    "18.md",
+    "Schooling subjects.md",
+    "Subjects/History/Y3 History/Cold War/Cuban Missile Crisis.md",
+    "Subjects/Physics/Physics MOC.md",
+    "Notes.base",
     "Subjects/Biology/Y3 Biology/Nervous system/Nervous System.md",
     "Subjects/Biology/Y3 Biology/Nervous system/Singal Conduction.md",
-    "Pasted image 20260429191531.png",
     "Subjects/Biology/Y3 Biology/Nervous system",
     "Subjects/Biology/Y3 Biology/Nervous system/Reflex Actions.md",
     "Subjects/Biology/Y3 Biology/Nervous system/Cross-Section of Spinal cord.png",
@@ -250,26 +253,19 @@
     "Subjects/History/Y2 History/British in SEA/British SEQ II.md",
     "Subjects/History/Y2 History/WWI , Communism and WWII/Communism - Rise of stalin.md",
     "Subjects/History/Main causes of war (MAIENN).md",
-    "README.md",
     "Subjects/Biology/Biology_Olympiad/Protisits.md",
     "Main Causes of War (MAI",
     "Subjects/Biology/Biology_Olympiad/Biology Olympiad MOC.md",
-    "Subjects/Physics/Physics MOC.md",
-    "Schooling subjects.md",
     "Subjects/History/Y3 History/2-source suprise.md",
     "Subjects/History/Y3 History/Assertion Y3 Revision.md",
     "Subjects/History/Y2 History/British in SEA/Assertion.md",
     "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
     "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
     "Subjects/History/Y3 History/Vietnam/Colonisation of Vietnam.md",
-    "Subjects/Chemistry/Chemical Bonding.md",
-    "Daily Notes/2025-06-29.md",
-    "Daily Notes/2025-06-25.md",
     "Ink/Drawing/2026.4.23 - 8.26am.drawing",
     "Ink/Drawing/2026.4.23 - 8.25am.drawing",
     "Ink/Drawing/2026.4.23 - 8.23am.drawing",
     "Ink/Drawing/2026.4.23 - 8.20am.drawing",
-    "Ink/Drawing/2026.4.23 - 8.19am.drawing",
     "Pasted image 20260309092947.png",
     "Subjects/History/Y2 History/History revision Trust.canvas",
     "Redundant/Images/Pasted image 20250913125341.png",
