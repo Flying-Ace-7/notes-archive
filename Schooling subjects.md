@@ -6,3 +6,13 @@ However, note that the most updated subject is History. The other subjects will 
 ```dataview
 list from [[]] and !outgoing([[]])
 ```
+
+
+
+```dataview
+TABLE length(file.inlinks) AS "Total no. of Linked files"
+
+from [[]] and !outgoing([[]])
+SORT length(file.inlinks) DESC
+
+```
