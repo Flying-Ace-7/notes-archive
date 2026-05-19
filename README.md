@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-README ver: 0.1.4
-Vault version : 0.1.3
-=======
+
+Vault version : 0.1.4
 README ver: 0.1.4.1
 
->>>>>>> 2e519e38eaf091598dcafbe356e9b8e45b8ace7d
 
 > [!note] Highscool Notes
 > Welcome to my notes archive.
