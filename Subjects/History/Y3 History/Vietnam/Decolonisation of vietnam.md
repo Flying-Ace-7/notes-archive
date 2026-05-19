@@ -258,7 +258,7 @@ You are supposed to have elections if you take away someone from power and re-el
 Diem didn;t do that.
 He just held a referundum, for removal of Bao dai removal and soverignity of vietnam with diem as president, or nah.
 Voters had overwhelmingly opted for Republic of Vietnam with Diem as president, kicking Bao Dai out.
-Bao Dai rose to power.
+Diem rose to power.
 
 Diem's rule prosed autocratic (can be seen as authoritarion) and nepostic (power through connections within people). His brother, Ngo Dinh Nhu was his chief advisor.
 Diem's sister in law, Nhu's wife, meddeled in politics and became infamous for *her arrogant and cruel behaviour.*

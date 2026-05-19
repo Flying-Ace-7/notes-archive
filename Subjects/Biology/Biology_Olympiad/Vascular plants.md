@@ -1,4 +1,4 @@
-[[Bio_Oly MOC]]
+[[Biology Olympiad MOC]]
 [[Biology MOC]]
 
 

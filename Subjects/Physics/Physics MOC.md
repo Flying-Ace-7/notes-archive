@@ -47,7 +47,6 @@ v^2=u^2 +2as
 
 
 
-
 ### SUVAT but Angular
 1. $$
 \omega=\omega_{0}+\alpha t

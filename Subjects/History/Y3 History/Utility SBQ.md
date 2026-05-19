@@ -1,3 +1,4 @@
+
 [[History MOC]]
 It can be linked to reliability.
 [Suprise]([[2-source suprise]]) and some [[SBQ]]  can be tougher than utility to some extent.

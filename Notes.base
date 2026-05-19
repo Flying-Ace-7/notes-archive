@@ -17,4 +17,7 @@ views:
     filters:
       and:
         - file.hasLink("Subjects/Biology/Biology MOC")
+    order:
+      - file.name
+      - file.tags
     sort: []

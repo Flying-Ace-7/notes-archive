@@ -4,7 +4,7 @@
 Recap:
 
 #### Main Causes of War (recap)
-- Military
+-  Increase in Military Strength
 - Alliances
 - Imperialism/ expansionism
 - Nationalism
