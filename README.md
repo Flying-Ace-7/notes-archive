@@ -5,7 +5,8 @@ Vault version : 0.1.4
 README ver: 0.1.4.1
 
 
-> Highschool Notes
+> Highschool Notes |
+> 
 > Welcome to my notes archive.
 > My notes are crafted through years of academic trials and experience. Please feel free to use them to read up. Note that some notes are still work in progress.
 > Suitable levels for these notes: Grades 8-12
