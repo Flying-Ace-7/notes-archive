@@ -4,63 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e467faa985574963",
+        "id": "64029224d4b509c7",
         "type": "tabs",
         "children": [
           {
-            "id": "80d2861faf5033f9",
+            "id": "dcf6a0b421670ef0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Subjects/History/Y3 History/Cold War/Cold War I.md",
+                "file": "Subjects/Chemistry/SJCHO Cram sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cold War I"
-            }
-          },
-          {
-            "id": "d00235c70e954fc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/History/Y3 History/Cold War/Post-WWII.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Post-WWII"
-            }
-          },
-          {
-            "id": "f845c8e79471c30e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vietnam War"
-            }
-          },
-          {
-            "id": "d27059c8578d41ba",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SJCHO Cram sheet"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,9 +86,9 @@
     "type": "split",
     "children": [
       {
-        "id": "6a77279efd0e78d5",
+        "id": "8676321309afdd90",
         "type": "tabs",
-        "dimension": 36.54891304347826,
+        "dimension": 33.415841584158414,
         "children": [
           {
             "id": "bca64d4c503e9ee2",
@@ -142,9 +103,9 @@
         ]
       },
       {
-        "id": "8676321309afdd90",
+        "id": "02750a6748238b46",
         "type": "tabs",
-        "dimension": 27.17391304347826,
+        "dimension": 35.27227722772277,
         "children": [
           {
             "id": "59c1cbfbae84bbec",
@@ -165,20 +126,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "94faed9c60219753",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2025-09-04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-09-04"
-            }
           }
         ],
         "currentTab": 1
@@ -186,7 +133,7 @@
       {
         "id": "f83f30a57f4dddad",
         "type": "tabs",
-        "dimension": 36.27717391304348,
+        "dimension": 31.31188118811881,
         "children": [
           {
             "id": "658e7569d166229a",
@@ -194,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Subjects/English/OBQ Stuff.md",
+                "file": "Subjects/History/Y3 History/2-source suprise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for OBQ Stuff"
+              "title": "Backlinks for 2-source suprise"
             }
           },
           {
@@ -213,11 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Subjects/History/Y3 History/2-source suprise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2-source suprise"
             }
           },
           {
@@ -260,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -278,48 +226,101 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d27059c8578d41ba",
+  "floating": {
+    "id": "93b09c954e928d9c",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1e5c75c204417f8f",
+        "type": "window",
+        "children": [
+          {
+            "id": "229ebdeb1278e60f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f66c78b3180d7e2d",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://duckduckgo.com/?q=how+to+list+files+with+links+to+current+file+in+obsidian+with+dataview%2C+and+list+those+files%27s+backlinks&ia=web",
+                    "title": "how to list files with links to current file in obsidian with dataview, and list those files's backlinks at DuckDuckGo",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "how to list files with links to current file in obsidian with dataview, and list those files's backlinks at DuckDuckGo"
+                }
+              },
+              {
+                "id": "daedb61396735083",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 128,
+        "y": 0,
+        "width": 1024,
+        "height": 752,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "dcf6a0b421670ef0",
   "lastOpenFiles": [
-    "Subjects/History/Y3 History/Vietnam/Vietnam War.md",
-    "Subjects/History/Y3 History/Utility SBQ.md",
-    "Subjects/History/Y3 History/Cold War/Post-WWII.md",
     "Zero-Sum.md",
-    "README.md",
-    "Subjects/History/Y3 History/Cold War/Truman Doctrine.md",
-    "Subjects/History/Y3 History/Vietnam/Vietnam war Timeline.md",
-    "Subjects/History/Y3 History/Cold War/Cold War I.md",
-    "Subjects/History/Y3 History/Cold War/Cold War II.md",
-    "Subjects/History/Y3 History/Vietnam/Decolonisation of vietnam.md",
-    "Subjects/History/Y3 History/Korean war/Korean War I.md",
-    "Schooling subjects.md",
-    "New Text Document.txt",
-    "Notes.base",
-    "Vault_Info/TESTTR1OII.base",
-    "TaskSheet.md",
-    "Untitled.md",
-    "Exam To Do.md",
-    "Pasted image 20260309092947.png",
-    "Daily Notes/2026-03-09.md",
     "Subjects/Biology/Metabolism.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "Subjects/Biology/Excretory Processes.md",
+    "Subjects/Biology/Biology_Olympiad/Bio_Oly MOC.md",
+    "Subjects/Chemistry/SJCHO Cram sheet.md",
+    "Redundant/Excalidraw/Drawing 2026-05-19 18.51.42.excalidraw.md",
+    "Subjects/History/Y2 History/Dutch East Indies/Comparison Essay.md",
+    "README.md",
     "Subjects/History/Y2 History/WWI , Communism and WWII/History MOC.md",
-    "Subjects/History/Y2 History/British in SEA/FMS Vs UFMS keynote.md",
-    "Subjects/History/Y3 History/GA Practice answer.md",
-    "Subjects/History/Y3 History/Cold War/WWII and Cold War.md",
-    "Subjects/History/Guerrilla Warfare.md",
-    "Subjects/History/Y3 History/Vietnam/Colonisation of Vietnam.md",
-    "Subjects/History/Y3 History/Cold War/Zero-Sum Concept.md",
-    "Subjects/History/Y3 History/Vietnam",
-    "Subjects/History/Y3 History/Korean war",
-    "History.zip",
-    "Subjects/History.zip",
-    "Subjects/History/Y2 History",
-    "Subjects/History/Y3 History",
-    "Subjects/History/Y3 History/Cold War",
+    "Schooling subjects.md",
+    "Subjects/Schooling subjects.md",
+    "Redundant/Excalidraw/Drawing 2026-05-15 09.34.39.excalidraw.md",
+    "Excalidraw",
+    "Subjects/History/Y3 History/Cold War/Cuban Missile Crisis.md",
+    "Subjects/History/Y3 History/Arab Israeli Conflict.md",
+    "Pasted image 20260429191531.png",
+    "18.md",
+    "Subjects/Physics/Physics MOC.md",
+    "Notes.base",
+    "Subjects/Biology/Y3 Biology/Nervous system/Nervous System.md",
+    "Subjects/Biology/Y3 Biology/Nervous system/Singal Conduction.md",
+    "Subjects/Biology/Y3 Biology/Nervous system",
+    "Subjects/Biology/Y3 Biology/Nervous system/Reflex Actions.md",
+    "Subjects/Biology/Y3 Biology/Nervous system/Cross-Section of Spinal cord.png",
+    "Subjects/Biology/Y3 Biology/Nervous system/Neuron Cell Diagram.png",
+    "Ink/Drawing/2026.5.10 - 12.25pm.drawing",
+    "Ink/Drawing/2026.5.10 - 12.24pm.drawing",
+    "Ink/Drawing/2026.5.10 - 12.22pm.drawing",
+    "Subjects/History/Y3 History/Cold War/Cold War II.md",
+    "Subjects/History/Y3 History/SEQ TWEDYA Year 3 Review.md",
+    "Subjects/History/Y2 History/EXs.md",
+    "Subjects/History/Y2 History/WWI , Communism and WWII/Hitler's SEQ.md",
+    "Subjects/History/Y2 History/WWI , Communism and WWII/FREAKY HITLER.md",
+    "Subjects/History/Y2 History/British in SEA/British SEQ II.md",
+    "Subjects/History/Y2 History/WWI , Communism and WWII/Communism - Rise of stalin.md",
+    "Main Causes of War (MAI",
+    "Ink/Drawing/2026.4.23 - 8.26am.drawing",
+    "Ink/Drawing/2026.4.23 - 8.25am.drawing",
+    "Ink/Drawing/2026.4.23 - 8.23am.drawing",
+    "Pasted image 20260309092947.png",
     "Subjects/History/Y2 History/History revision Trust.canvas",
     "Redundant/Images/Pasted image 20250913125341.png",
     "Pasted image 20250819160658.png",
@@ -327,9 +328,6 @@
     "Redundant/Images/Pasted image 20250723190649.png",
     "Redundant/Images/Pasted image 20250803165426.png",
     "Redundant/Images/Pasted image 20250729175531.png",
-    "Redundant/Images/Pasted image 20250723191049.png",
-    "Redundant/Images/Pasted image 20250722185417.png",
-    "Redundant/Images/Pasted image 20250716082331.png",
     "Subjects/Math/Trigo/Trig(AAG).canvas"
   ]
 }
