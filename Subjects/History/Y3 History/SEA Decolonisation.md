@@ -204,3 +204,24 @@ Answer: act on Malayan demands to be mroe favourable
 | Headed by British Governor, who was advised by Sultan            | Headed by the sultans, advised by the governor                                                   |
 | no longer sovereigns, no pwer                                    | gain back power                                                                                  |
 | direct rule                                                      | indirect rule                                                                                    |
+
+_Outcome:_
+1. Sultans were c<mark class="hltr-red">onstitutional monarch</mark>s
+	- Sultans remain as sovereigns in name but obliged to accept laws made by the federal and the state government (No longer enjoy absolute power.)
+2. Individual states gain <mark class="hltr-red">autonomy</mark>
+	- individual states enjoy a degree of power over local admin affairs
+3. <mark class="hltr-red">More difficult for non-Malays</mark> to become citizens
+	- UMNO had demanded stricter citezenship laws to protect political and economic interests of the Malays as more non-Malays citizens = more non-Malays in Civil service and government at the expense of the Malays
+	- Protect the civil service positions from non-malays, so that the malays can keep their rules.
+
+
+#### Opposition to the Federation
+1. non-malays
+	- against the stricter citizenship laws
+	- denied of citizenship
+2. Small minority of malay radicals
+	- Opposed UMNO's ethnic politics and angered that the Federation would _not_ grant Malaya immediate indpendace, formed _PUTERA_ (Malay radicals who want independance)
+3. Formation of AMCJA - PUTERA alliance (Oct 1947)
+	- Nation -wide hartal (strikes but joined by business owners as a show of solidarity against a colonial government)
+	- joined by 140 000 workers
+	- Anti-colonial sentiments
