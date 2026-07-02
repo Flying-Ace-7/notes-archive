@@ -108,6 +108,18 @@ Criteria for instability:
 
 **The economy was tied to British Demands for raw materials, and profit making.**
 They became a export-oriented economy - vulnerable to world demand
-Some degree of modernisation and developmetn of infrastructure to support the economy, (etc, railways)
+Some degree of modernisation and development of infrastructure to support the economy, (etc, railways)
+
+Impact of British Colonisation:
+- Exploitative in nature- increased in grievances, opposition, looking for better standard of living
+- Occupations closely associated with race,
+	- Chinese Malaysians commerce construction and industrial employments, Malays - Farming and some positions in civil service, Indians - Labour for plantations.
+
+
+During WWII, when japanese swiftly defeated the british forces in malay and occupied malaya. The japanese started targetting the chinese brutally in revenge for them supporting the chinese in the second sino-japanese war 1937.
+
+The _Malayan People's anti Japanese Army_(MPAJA) was formed by the Malayan Communist people, guerrila fighters made of the chinese. The british supported the MPAJA during the war.
+The japanese were pro-Malay, favouritism towards the malays/
+<mark class="hltr-orange">Society became divided</mark>, <mark class="hltr-red">british superiority is a myth,</mark> instability in the region. SOL was also terrible.
 
 
