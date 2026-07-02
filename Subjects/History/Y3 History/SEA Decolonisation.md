@@ -85,15 +85,14 @@ UN was set up. Global movement towards self-determination. (_strong independance
 - Strong ties to European allies to contain soveit strategic ambitions in Europe
 - Europe needed economic and military strength from their colonial possesions.
 
-### Decolonisation process was vulnerable to Cold War Dynamics.
+**Decolonisation process was vulnerable to Cold War Dynamics.**
 
 
 ## REVISIT: British Colonial rule in Malaya
 [[Transformation of British Malaya I]]
 [[Transformation of British Malaya II]]
-[
-
-Criteria for instability:
+[<mark class="hltr-green">
+Criteria for instability:</mark>
 - View of British
 	- Are they viewed as Superior/ or myth? prevent rise in nationalism
 - Efficiency of Colonial Government
@@ -121,5 +120,87 @@ During WWII, when japanese swiftly defeated the british forces in malay and occu
 The _Malayan People's anti Japanese Army_(MPAJA) was formed by the Malayan Communist people, guerrila fighters made of the chinese. The british supported the MPAJA during the war.
 The japanese were pro-Malay, favouritism towards the malays/
 <mark class="hltr-orange">Society became divided</mark>, <mark class="hltr-red">british superiority is a myth,</mark> instability in the region. SOL was also terrible.
+There was a racial Divide among Malayans.
+
+### Ethnic tension
+
+38% of the population, the chinese, were treated harshly by the Japanese, and hated the 44% of population, ethninc malays, whom were favoured and spared by the japanese.
+After the japanese ocupation, the MPAJA turned on the ethnic malays, started killing malays, for siding with the japanese.
+
+### British return
+
+The British Returned with these aims:
+- Restoring Order
+	- Chaos and internal instability brought about by Japanese Ocuupation and rise fo Malayan Communist party(MCP)
+- Resuming Control
+	- The leaders were politicaly conscious, they are able to lead a country. The british need to regain power and prestige
+- Prepare Malaya for Self-rule
+	- Recover their own economy after WWII, and focus on trade, not political dominance
+
+### Political Structure
+
+Before Malayan Union:
+- 4 Federated Malay States (Federal Government headed by British Resident-General. State government headed by sultan in Consultation with a british Resident) (Perak, Selangor, Negeri Sembilan, Pahang. The resident of Selangor was the resident-genral)
+- 5 Unfederated Malayan States
+- 3 Straits Settlements
+- _indirect rule_
+After Malayan Union:
+- All states are under Malayan union (11 states Total) (except singapore)
+- Singapore remains as a crown colony
+- Formation of Central Government, responsible for the entire sountry
+- Headed by British Governor, who was advised by the Malay Sultans
+- Sultans no longer sovereigns, under direct rule. 
 
 
+### Citizenship? (Socio-Politcal impact)
+
+| Before Malayan Union                                                                                   | After Malayn Union                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Federated and Unfederated states: Malaya automatically qualified, non-malayans are not citizens at all | Malays automatically qualify                                                                                                                                     |
+| Straits settlements: Non-Malayans qualify if born there                                                | Non-Malays must be born in Malaya before the Malayan Union, **or** if they met the necessary residence requirements (minimum number of years residing in Malaya) |
+|                                                                                                        | **Citizenship is granted regardless of ethnicity**                                                                                                               |
+
+Also you can vote now!!
+
+
+
+Sir MacMichael, was given the task to convince the angry sultans to accept. He said that if they do not accept, he will remove them form power by investigating into their collaboration acts with the japanese.
+
+
+### Respones to Malay Union 
+
+###### Malays:
+- Malays expressed great displeasure, they were the first to protest
+	- MacMichael's arrival in Malaya was met with 10,000 strong protest
+	- Displeasure aired through newspapers like **Utusan Melayu**(Jawi Newspaper)
+	- Calls for malay political association to protect Malay Interest
+
+- Formation fo UMNO (United Malays National Organisation)
+	- Dato Onn Bin Jaafar was the Chief Minister of johor. in 1946, he organised an All-Malaya congress. 41 Malay associations attended the congress, The metting resulted in the formation of UMNI
+	- UMNO only accepted Malays as Members and r**epresented purely Malay interests,** they led protests against the Malayan union with slogans such as 'Hidup melayu' (Long live malays), and 'Hidup Bangsa Melayu'(Long live the Malay race). these movements are known as<mark class="hltr-green"> Ultra Malay</mark> - ism.
+	- <mark class="hltr-cyan">Policy of Non cooperation</mark> - united front against the british
+###### Non-Malays:
+They were supportive!
+however slower and had less impact than the response of Malays.
+
+Citizenship was seen as of little value, as it is only for british colonial territory instead of an independent nation.
+1. AMCJA
+	- Tun Tan Cheng Lock organsied the <mark class="hltr-red">All-Malaya Council of Joint Action</mark> to fight for the rights of Non-Malays. AMCJA included groups like Malayan Indian congress (MIC) and groups affiliated to the Malayan Communist Party, and _did not_ have british support
+	- In 1949, Tan cheng lock founded the Malayan Chinese Association, which was more generic and was "not communist"
+
+###### British Govt
+British Govt found it difficult to balance demands to Malays and non-Malays + position was weakened in the aftermath of WWII
+Even **Frank Swettenham** Ex-resident general.
+
+Answer: act on Malayan demands to be mroe favourable
+
+
+
+### Govt structure (Political Impact)
+
+| Malayan Union                                                    | Federation Of Malaya                                                                             |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Strong centralised government with states having little autonomy | Federal Govt work with state govt and both enjoy significant autonomy in local admin and affairs |
+| Headed by British Governor, who was advised by Sultan            | Headed by the sultans, advised by the governor                                                   |
+| no longer sovereigns, no pwer                                    | gain back power                                                                                  |
+| direct rule                                                      | indirect rule                                                                                    |
