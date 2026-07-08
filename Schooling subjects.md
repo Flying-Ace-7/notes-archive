@@ -16,3 +16,14 @@ from [[]] and !outgoing([[]])
 SORT length(file.inlinks) DESC
 
 ```
+
+
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Redundant/Ink/Drawing/2026.7.8 - 19.53pm.drawing",
+	"width": 500,
+	"aspectRatio": 1
+}
+```
