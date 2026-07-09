@@ -1,7 +1,7 @@
 
 [[History MOC]]
 [[SEA Decolonisation]]
-
+#British 
 
 It is said to begin from 1948 all the way to 1968.
 The trigger incident happened in 1948
@@ -163,5 +163,25 @@ Templer (1951-1954) had full command authority over the military and police
 - Insurgency failed to achieve significant goals, MCP was increasingly willing to negotiate
 
 -> 1955 Baling talks for negotiations  , it failed
+ Key points:
+ - Laying down of arms by the MCP: Tunku abdul Rahman (current leader of Alliance party) insited on the MCP's complete surrender as a condition for peace.
+ - He also offered amnesty for the MCP members willing to surrender, he ruled out any possibility of the MCP existing legally as a political party. This was non negotiable for the Alliance party due to concerns over communists influecne
+ - The MCP did not want this, they wanted recognition as a legitimate political party in Malaya.
+ - The talks ultimately failed to reach a resolution due to the uncomprimising sides. Chin Peng refused surrender
 
--> 1958
+Historical significance:
+- Demonstrated Alliances's commitment to achieveing indeoendance through peaceful means.
+- Exposing th edivisions within the MCP. 
+- Solidified Public support for alliance party, reduced support for MCP
+
+
+-> 1958 
+
+
+
+Finally, 5 years later, the Malayan Emergency was lifted (31 July 1960)
+
+The struggle was effectively over by 1958, as the last group of guerrilas surrenderd in Perak, they withdrew into thailand.
+
+The MCP threat only officialy ceased to exist with the signing of the Hat yai peace agreement.
+

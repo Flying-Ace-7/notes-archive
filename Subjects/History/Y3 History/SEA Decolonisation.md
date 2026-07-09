@@ -1,6 +1,6 @@
 [[History MOC]]
 
-
+#British 
 ## Decolonisation in SEA - Gaining Independance
 1. Philipines
 	- 4 July 1946
