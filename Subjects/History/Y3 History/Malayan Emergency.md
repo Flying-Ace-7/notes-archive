@@ -185,3 +185,5 @@ The struggle was effectively over by 1958, as the last group of guerrilas surren
 
 The MCP threat only officialy ceased to exist with the signing of the Hat yai peace agreement.
 
+
+[[Malayan Road to Independance]]
