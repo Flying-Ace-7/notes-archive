@@ -12,7 +12,7 @@ aliases:
 WHen france surrendered to nazi germany -> a Vich government under german influence formed in France and in control of indochina.
 
 
-## Timeline of events
+### Timeline of events
 
 
 ```timeline
@@ -23,9 +23,13 @@ WHen france surrendered to nazi germany -> a Vich government under german influe
 1940 June -> French surrendered to nazi germany
 1940 Sept -> Japanese launched an invasion of indochina, and an armstice with vichy government was reached:
 	Indochina will remain under french col rule but take instructions from japan
+	
 1941 July -> French set up federal govt called indochinese Council [State govt's representation] , but all the 25 members appointed was selected by french government. The appointed members are loyal to France. (Mainly the mandrins from colonised vietname)
-1945 March -> D-Day operations succesful. France is liberated successfully. Japanese fear french revolution in viet, and ended viet col rule.
-The japanese combined Anam, tokin, and CochinChina into 1 teritorry _under 1 government_. They retained the last emperor of Viet Bao Dai under Japanese command. The Frence, who were taken as POW's were seen as weak by vietnamese population, and they realised that they can be defeated, by an asian power. Vietnamese nationalists saw this as an oppurtunity
+
+1945 March -> D-Day operations succesful. France is liberated successfully. Japanese fear french revolution in viet, and ended <mark class="hltr-red">french col rule</mark>.
+The japanese combined Anam, tokin, and CochinChina into 1 teritorry _under 1 government_. They retained the last emperor of Viet Bao Dai under Japanese command. 
+
+The Frence, who were taken as POW's were seen as weak by vietnamese population, and they realised that they can be defeated, by an asian power. *Vietnamese nationalists saw this as an oppurtunity*
 
 Japanese finally decolonised vietname, and declared its independance. However, the real power still lay with Japanese, as they have people loyal to them.
 
@@ -60,7 +64,7 @@ There was a widespread Famine in Tonkin on dec 1944, during japanese occupation.
 - Allies bombing the railway, prevented the supply of rice north,
 - Due to the sharp drop in rice supply, wealthy elites hoarded rice. There was increased resentment against the elites/bourgeosie", the communsit ideals became very attractive to the vietnamese.
 
-Due to this, there was a tonkin revolts, where the viet minh opened the graneries of the elites, to solve the famine in early 1945.
+Due to this, there was a tonkin revolts, where the <mark class="hltr-green">viet minh opened the graneries </mark>of the elites, to solve the famine in early 1945.
 
 ## August revolution
 
@@ -121,16 +125,17 @@ Political -> French to station 15 k troops in north Vietnam and hold referendum 
 - Re establish control over vietnam
 - However, they lack the economic and military capacity to re-occupy Vietnam
 - They decide to "talk it out to them", trough Fontaineblueau talks
+- They wanted to form an Indochinese Federation consisting of Tonkin, Annam, Cochinchina, laos and Cambodia, to be headed by French High Commissioner
 
 
 #### British
-- Wanted strong Allies in Europe, felt that restoration of French control in Vietnam will aid France recovery from WII devestations.
+- Wanted strong Allies in Europe, felt that restoration of French control in Vietnam will aid *France recovery* from WII devestations.
 
 #### America
 
 President Roosevelt supported self-determination, and wanted free elections in vietnam supervised by UN
 
-BUT: President Truman rejected Vietnam;s call for self-independance as he wanted to maintain good relations with britain and France, to bring about economic recovery of Europe, as poor countries are suseptible to communsim.
+BUT: President Truman rejected *Vietnam;s call for self-independance* as he wanted to maintain good relations with britain and France, to bring about e<mark class="hltr-cyan">conomic recovery of Europe, as poor countries are suseptible to communsim.</mark> So that they can prevent further expansion of Communism in europe and in South east asia, and contain communism. ([[Post-WWII#Containment policy]])
 
 #### Vietnam
 - Wanted to achieve independance for Vietnam
