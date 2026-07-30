@@ -119,3 +119,65 @@ The Western superiority had been dispelled, and he believed in hsi military capa
 
 ![[Decolonisation of vietnam#Views on granting independance to Vietnam]]
 
+now, we shall look at the first indochina war
+
+## First IndoChina War
+It is the actions of hte french trying to quickly take control of vietnam, _before_ the referendum. To get rid of the vietminh.
+
+If you forgot who <mark class="hltr-red">Vo Ngyuen Giap</mark> is, he is basically a general to army.
+Lets not forget the 6 criteria/factors affecting nationalism, and analyse them along the way,
+
+1st stage: wanted to avoid direct confrontation and build up te vietnamese Defence force to 100 k, by recruiting peasents to wage [[Guerrilla Warfare]].
+
+2nd stage: Limited frontal attacks where their attack is stronger
+
+3rd stage: Launch a general offensive to retake cities from the cities.
+
+They learnt from soviet forcesm chinese communsits and even resistance forces.
+
+> [!note] Nationalism
+> evaluation of criteria for nationalism:
+>increased <mark class="hltr-green">military defence and capability</mark>
+>also created **unity and the sense of identity**
+
+
+
+23 November 1946:
+
+- French Expeditionary Corps had seized Saigon and major cities of the north. They Attacked Haiphong (a city) over a custom dispute, killed 6000 Civilians. They established military occupation in Haiphong
+- The Vietnamese viewed this as an indication of french desire to take vietnam by force.
+- Ho stilll tried to appeal for peace, he told Giap to prepare for open confrontation.
+- Armed skirmishes between the French and Viet Min
+
+19 December 1946
+
+- The french ordered the Viet Minh to be disarmed
+- Viet minh attacked the frecnh in hanoi, leading to the death of french soldiers and french civilians.
+- The French stormed Hanoi the nect day, and drove the DRV out of hanoi, Hanoi had fallen to the french.
+- The escalation of Hanoi marked the start of First Indochina War.
+- In 1949, the French set up an alternative government for the state of vietnam, with _Bao Dai_ as the head.
+
+
+> [!note] Evaluation of Nationalism
+> - Increased <mark class="hltr-red">instability</mark> in country
+> - As the french attacked the citizens even after recognising the DRV, increased <mark class="hltr-cyan">anti-colonial sentiments</mark>
+> - hmm? gives also _admin experience_ for Bao Dai, as this alternative government becomes the eventual republic of vietnam later on
+
+
+### Operation Lea 1947
+
+The viet Minh had established their headquaters in Viet bac, a mountainous region. They were conducting guerrila warfare on the french.
+
+- The french parachuted their forces into the area to force the Viet Minh leaders and lsodiers out their base and to capture the leaders.
+- At the same time, a large force of The French soldiers surrounded the area to attack the Viet Minh soldier when they fled.
+- High casualties in Viet Minh
+
+The operatoin failed to destroy Viet Minh as the leaders were not captured, and the soldiers sought refuge in the Underground tunnel. (which were mines previously from period of french exploitiation)
+
+By 1948: Stalemate  
+Commmunists controlled rural and mountainous regions.  
+french controlled major cities and most of CochinChina  
+Indochinese Federation to unify Tonkin, Annam, and cochinchina into the Associated state of Vietnam , which was supported by the USA and british
+
+_French started burning and bombing villages indiscriminanlty, to get rid of the viet minh as a last-ditch attempt_
+
