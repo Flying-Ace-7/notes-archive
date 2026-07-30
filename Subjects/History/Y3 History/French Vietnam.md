@@ -199,6 +199,21 @@ _French started burning and bombing villages indiscriminanlty, to get rid of the
 
 ### Battle of Dien bien Phu 1954
 
+> [!info] 
+> The original french base was in haiphong, and then they shifted bases to Dien Bien phu, into a valley as it provided 'better defence', so as to be closer to the Vietminh's operations.
+> 
+> They furthermore, lost an ally, USA during this battle, as they lost the battle even with all the supplies provided by the USA.
+> 
+> This battle is _super_ important in **dispelling the myth of Western Superiority**
+> 
+> They also saw the increeased <mark class="hltr-green">military capability</mark> of the Vietnmanese, and increased the **unity** among them, as peasents and villagers had assisted heavilily in the military operations in the laborious tasks of supply the tanks and supplies. 
+>
+>The success of the workers working together and winning the battle is a point of unity among the people.
+>
+>INCREASED DESIRE FOR INDEPENDACE 
+
+
+
 The major turning point of the war.
 
 - In 1949, there were more conventional war between the two armies equipped with modern weapons supplied by the United States, China and the Soviet union.
@@ -210,4 +225,40 @@ the vietnamese brought tanks, artillery to the mountains, by recruiting the loca
 
 They were able to fight and win, but it started raining heavily, making their firepower not effective, but Help could not arrive too.
 
+-> Poor french military strength
+-> Civil war between communists and anti-communists (french pitting them agaisnt each other) + Chinese civil war
 
+### The geneva accords 21 July 1954
+This accords is _actually_ to settle to wars, ongoing at that time
+- [Korean war]([[Korean War I]])
+- First Indochina war
+In mid-1954, the <mark class="hltr-green">French started negotiation</mark> with the Vietnamese when they realised that they were losing the war. (the battle of dien bien phu went on for two months, and usa withdrew the help.)
+
+The conference was attended by :
+- USSR
+- USA
+- France
+- Peoples republic of China
+
+The conference discussed wasy to unify vietnam and restore peace.
+
+The key terms of the agreement:
+- vietnam wants to be an independant country
+- temporararily divided a the 17th parallel
+- DMZ of 5km at the 17th parallel
+- **National elections** to be held in 1956 to unify vietnam
+
+As stalin was not present at that time, chinese premeier Zhou Enlai had to convince France and the US that the Viet Minh would not spread Communism to cambodia and loas.
+
+Viet Minh reluctant to accept partition.
+Communists lose 20% of territories and 1.5 million people it governed in their territories below the 17th parallel.
+
+> [!tip] Evaluation of nationalism
+> Increased anti-colonial sentiments
+
+
+Democratic People's republic of Vietnam (DRV) formeed int the north, with the viet minh in charge of it
+
+Republic of Vietnam (RV) formed in the south, governed by USA.
+
+on Oct 1955: *USA AND RV refused to hold elections*
