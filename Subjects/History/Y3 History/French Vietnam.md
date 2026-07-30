@@ -6,6 +6,7 @@ Revisit of :
 [[Colonisation of Vietnam]]
 [[Decolonisation of vietnam]]
 
+> This note is an extension of [[Decolonisation of vietnam]].
 
 first, we shall start out with factors affecting <mark class="hltr-red">nationalism</mark>, within a country:
 1. Unity and Sense of identity
@@ -174,10 +175,39 @@ The viet Minh had established their headquaters in Viet bac, a mountainous regio
 
 The operatoin failed to destroy Viet Minh as the leaders were not captured, and the soldiers sought refuge in the Underground tunnel. (which were mines previously from period of french exploitiation)
 
+<mark class="hltr-orange">The vietminh had lost major cities, and thier bases, and they had to flee to the jungles</mark>
+
 By 1948: Stalemate  
 Commmunists controlled rural and mountainous regions.  
 french controlled major cities and most of CochinChina  
-Indochinese Federation to unify Tonkin, Annam, and cochinchina into the Associated state of Vietnam , which was supported by the USA and british
 
-_French started burning and bombing villages indiscriminanlty, to get rid of the viet minh as a last-ditch attempt_
+Indochinese Federation to unify Tonkin, Annam, and cochinchina into the <mark class="hltr-cyan">Associated state of Vietnam</mark> , which was supported by the USA and british
+
+> [!tip] brief history
+> Intially, we had Tonkin, Annam and cochinchina separated because of colonial rule.
+> The, during japanese occupation, all of them got conquered.
+>The Japanese set up a government with Bao Dai as its head
+>...
+>And now they are unified under the associated state of vietnam
+>
+> 
+
+
+
+### French Massacre
+_French started burning and bombing villages indiscriminanlty, to get rid of the viet minh as a last-ditch attempt_. Mainly due to the stalemate.
+
+### Battle of Dien bien Phu 1954
+
+The major turning point of the war.
+
+- In 1949, there were more conventional war between the two armies equipped with modern weapons supplied by the United States, China and the Soviet union.
+- Inn 1953, the French set up a major force in a military base in Dien bien Phu (a valley in a mountainous region) to cut Viet Minh's supply lines and establish control in this region.
+- The surrounding jungles was controlled by thr Giap. The viet Minh artillery in the jungles were not visible.
+- The french attempted to lure the Viet Minh out into the open battle against the french at strongly reinforced bases, and were confident in their fire power.
+
+the vietnamese brought tanks, artillery to the mountains, by recruiting the locals to help and assist in building roads etc.
+
+They were able to fight and win, but it started raining heavily, making their firepower not effective, but Help could not arrive too.
+
 
