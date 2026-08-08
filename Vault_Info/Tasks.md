@@ -10,9 +10,7 @@
 not done
 # Restrict to at most 100 tasks. # If you ask Tasks to display many hundreds or thousands of tasks, # Obsidian's editing performance really slows down. 
 limit 100 # Group and sort the output: 
-
-group by priority
-
+due this week OR due next week
 sort by due reverse
 
 sort by description 
@@ -33,6 +31,8 @@ priority is high
 ```tasks
 not done
 limit 30
+sort by priority
+
 ```
 
 
