@@ -1,8 +1,8 @@
 
 ## VAULT INFO
-Vault version : 0.1.4
+Vault version : 0.1.5
 
-README ver: 0.1.4.1
+README ver: 0.1.5.1
 
 
 > Highschool Notes |
@@ -88,7 +88,8 @@ _Instead downloading all these plugins manually, you can also just copy the file
 4. Highlightr 
 	- I have higlighted info in my notes, and without the plugin, i believe the highlighted portions would look unsighlty (it looks lkie rambled code).
 
-
+5. Tasks 
+	- Not for viewing, but beneficial if you intend to use it for setting tasks in daily notes etc.
 
 
 
