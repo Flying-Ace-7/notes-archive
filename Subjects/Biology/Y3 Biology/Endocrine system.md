@@ -22,7 +22,7 @@
 
 A gland can be both an ednocrine and a exocrine gland at the same time, for example, the pancreas.
 - it secreats enzymes like pancreatic amlyase into the pancreatic duct, which leads into the small intestine 
-- It also has $\alpha$-cells and $\beta$-cells to secrete glucagon and insulin respectively directly into the bloodstream. 
+- It also has $\alpha$-cells and $\beta$-cells to secrete [[Glucagon]] and [[Insulin]] respectively directly into the bloodstream. 
 
 
 
@@ -83,13 +83,29 @@ Now, we shall study the differences between the endocrine sytsetm and the [[Nerv
 
 
 
-|        | Chemical signalling | Electrical signalling |
-| ------ | ------------------- | --------------------- |
-| System | Endocrine System    | Nervous system        |
-| Speed  | Slower              | Very fast             |
+|                      | Chemical signalling                                       | Electrical signalling                            |
+| -------------------- | --------------------------------------------------------- | ------------------------------------------------ |
+| System               | Endocrine System                                          | Nervous system                                   |
+| Speed and range      | Slower , but long-term                                    | Very fast, but short term                        |
+| Mode of transmission | Hormones, chemical signals -> Bloodstream and circulation | Saltatroy conduction -> **Neurons and synapses** |
+| Targeted cells       | Any cells with the specific receptor.                     | Specific muscle cells / tissues                  |
+|                      |                                                           |                                                  |
+|                      |                                                           |                                                  |
+ Similarities include: 
+ - Both involve the transmission of signals from one part of the body to another
+	 - Endocrine system : through chemical signals in bloodstream and blood circulation
+	 - Nervous system: along synapses and axons of neurons
+ - Both act on target cells that have specific receptors
+	 - Endocrine system: The cells that have the correct receptors for the correct hormone (Hormone-specific receptors)
+	 - Nervous system : Neurotransmitters
+ - Both systems communicate with organs to coordinate activites with the board, using electrical signals for nervous system, and chemical messengers transported through the bloodstream for endocrine system
+ - Both help to maintain homeostasis : Nervous system-> Short term regulation , Endocrine system -> Long-term regulation (eg. Negative feedback loop)
 
 
 
+
+
+Next, we shall look at [[Glucose Homeostasis]]
 
 
 
