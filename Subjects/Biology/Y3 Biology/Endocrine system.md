@@ -21,8 +21,8 @@
 > - Excretion : release unwanted matter _metabolic wastes_ (eg undigested matter from the body)
 
 A gland can be both an ednocrine and a exocrine gland at the same time, for example, the pancreas.
-- it secreats enzymes like pancreatic amlyase into the pancreatic duct, which leads into the small intestine 
-- It also has $\alpha$-cells and $\beta$-cells to secrete [[Glucagon]] and [[Insulin]] respectively directly into the bloodstream. 
+- it secreats enzymes like [[Pancreatic amlyase]] into the pancreatic duct, which leads into the small intestine 
+- It also has $\alpha$-cells and $\beta$-cells to secrete [[Subjects/Biology/Y3 Biology/Glucagon]] and [[Insulin]] respectively directly into the bloodstream. 
 
 
 
@@ -50,7 +50,7 @@ Now, we shall study the stress response
 
 ### Stress response
 
-The main hormone involved is Adrenaline.
+The main hormone involved is [[Adrenaline]].
 The interactions of the hypothalumus , pituitary gland and adrenal gland are responsible for controllign the body's reaction to stress.
 - Hypothalamus: the brain's command center that detects stress and send signals
 - Pituitary gland: Recieves signals from the hypothalamus and releases the hormones
@@ -89,7 +89,7 @@ Now, we shall study the differences between the endocrine sytsetm and the [[Nerv
 | Speed and range      | Slower , but long-term                                    | Very fast, but short term                        |
 | Mode of transmission | Hormones, chemical signals -> Bloodstream and circulation | Saltatroy conduction -> **Neurons and synapses** |
 | Targeted cells       | Any cells with the specific receptor.                     | Specific muscle cells / tissues                  |
-|                      |                                                           |                                                  |
+| Duration             | Short-term                                                | Long term                                        |
 |                      |                                                           |                                                  |
  Similarities include: 
  - Both involve the transmission of signals from one part of the body to another
