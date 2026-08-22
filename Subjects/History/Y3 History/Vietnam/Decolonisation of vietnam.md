@@ -4,6 +4,7 @@ aliases:
 ---
 
 [[Colonisation of Vietnam]]
+[[French Vietnam]]
 
 
 [[History MOC]]
