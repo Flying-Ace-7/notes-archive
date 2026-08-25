@@ -36,12 +36,13 @@ Function
 Comprises aproximately 15% of all nephrons, plays a critical role in <mark class="hltr-blue">maintaining water balance and producing concentrated urine</mark> 
 
 
-### What are the concurrent mechanisms in kidneys
+### What are the countercurrent mechanisms in kidneys
 
 	- countercurrent multiplier
 		- Opposite Flow of **filtrate** in the descending limb and ascending loop of henle
 	- Countercurrent exchanger
 		- Opposite flow of **blood** in descending portion and ascending portion of vasa recta
+
 
 
 
