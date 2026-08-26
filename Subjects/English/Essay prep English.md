@@ -166,3 +166,14 @@ The counter-argument is a powerful rhetorical tool. You should not just state it
 ---
 
 This structure should give you a clear, organized framework for planning and writing both your discursive and argumentative essays. Good luck
+
+
+
+
+
+
+
+
+
+
+---
