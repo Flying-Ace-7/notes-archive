@@ -8,4 +8,6 @@ Respiration in active flight muscles release metabolic heat
 Has a layer of fat around the gills, heart and pectoral muscles for insulation
 
 Large rounded body with low SA-V ratio, reducing heat loss due to the
-Large pectoral muscles produce propoulsion and heat
+Large pectoral musclepropulsionpoulsio
+
+n and heat
