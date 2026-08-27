@@ -61,3 +61,7 @@ We have three options for this section
 	- Majority population in Malaya was Chinese (48%) in 1946 . hence aspirations to create Chinese dominated Commnuist government was representative and achieveable + British bias against the Majority increased unhappiness.
 	- Made it easy to gain support from the broad base
 	- Increase confidence for the insurgency.
+
+
+
+
