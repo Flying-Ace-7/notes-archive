@@ -2,7 +2,7 @@
 
 Now we shall look at glucose homeostasis. The main two Hormones involved is :
 - [[Subjects/Biology/Y3 Biology/Glucagon]]
-- [[Insulin]]
+- [[Subjects/Biology/Y3 Biology/Insulin]]
 
 Both of them are secreted by the $\alpha$-cells and $\beta$-cells of the pancreas
 
