@@ -145,12 +145,13 @@ Here is the information reorganized into a clearer, more structured format for y
 
 ### SECTION C: Quick Reference Statistics Table
 
-| Statistic/Finding | Source | Relevance |
-|---|---|---|
-| Over-controlling parents linked to poor emotional regulation in children | *Development and Psychopathology* (2018) | Shows the direct damage to resilience from a very young age. |
-| "Helicopter parenting" linked to lower autonomy and competence | University of British Columbia | Demonstrates the link to a dependency mindset and low self-efficacy. |
-| Children deprived of risky play more likely to develop anxiety | Queen Maud University (Prof. Ellen Sandseter) | Provides a physical/psychological basis for the need for risk. |
-| Surge in students unable to cope with independent living | American College Health Association (2016) | Shows the real-world consequences as youth enter adulthood. |
+| Statistic/Finding                                                        | Source                                        | Relevance                                                            |
+| ------------------------------------------------------------------------ | --------------------------------------------- | -------------------------------------------------------------------- |
+| Over-controlling parents linked to poor emotional regulation in children | *Development and Psychopathology* (2018)      | Shows the direct damage to resilience from a very young age.         |
+| "Helicopter parenting" linked to lower autonomy and competence           | University of British Columbia                | Demonstrates the link to a dependency mindset and low self-efficacy. |
+| Children deprived of risky play more likely to develop anxiety           | Queen Maud University (Prof. Ellen Sandseter) | Provides a physical/psychological basis for the need for risk.       |
+| Surge in students unable to cope with independent living                 | American College Health Association (2016)    | Shows the real-world consequences as youth enter adulthood.          |
+|                                                                          |                                               |                                                                      |
 
 ---
 
