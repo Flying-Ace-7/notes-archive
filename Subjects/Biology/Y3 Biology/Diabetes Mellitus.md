@@ -1,5 +1,5 @@
 [[Biology MOC]]
-[[Glucose Homeostasis]] and [[Endocrine system]]
+[[Subjects/Biology/Y3 Biology/Glucose Homeostasis]] and [[Endocrine system]]
 
 > [!note] What is diabetes Mellitus?
 > It is a disorder in which the body is unable to control its blood glucose concentration wothin its normal range.

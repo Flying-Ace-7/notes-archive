@@ -22,7 +22,7 @@
 
 A gland can be both an ednocrine and a exocrine gland at the same time, for example, the pancreas.
 - it secreats enzymes like [[Pancreatic amlyase]] into the pancreatic duct, which leads into the small intestine 
-- It also has $\alpha$-cells and $\beta$-cells to secrete [[Subjects/Biology/Y3 Biology/Glucagon]] and [[Insulin]] respectively directly into the bloodstream. 
+- It also has $\alpha$-cells and $\beta$-cells to secrete [[Subjects/Biology/Y3 Biology/Glucagon]] and [[Subjects/Biology/Y3 Biology/Insulin]] respectively directly into the bloodstream. 
 
 
 
@@ -50,7 +50,7 @@ Now, we shall study the stress response
 
 ### Stress response
 
-The main hormone involved is [[Adrenaline]].
+The main hormone involved is [[Subjects/Biology/Y3 Biology/Adrenaline]].
 The interactions of the hypothalumus , pituitary gland and adrenal gland are responsible for controllign the body's reaction to stress.
 - Hypothalamus: the brain's command center that detects stress and send signals
 - Pituitary gland: Recieves signals from the hypothalamus and releases the hormones
@@ -105,7 +105,7 @@ Now, we shall study the differences between the endocrine sytsetm and the [[Nerv
 
 
 
-Next, we shall look at [[Glucose Homeostasis]]
+Next, we shall look at [[Subjects/Biology/Y3 Biology/Glucose Homeostasis]]
 
 
 
