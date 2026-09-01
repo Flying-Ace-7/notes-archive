@@ -17,7 +17,7 @@ Blood consists of :
 
 ## Red Blood Cels
 - Filled with a red pigment haemoglobin, which binds to oxygen for transport
-- Destroyed in the liver after 120 daysish
+- Destroyed in the liver after 120 daysish (by [Oxidation]([[Common Oxidising And Reducing Agents]]))
 - Absence of Nucleus to increase capacity to carry more oxygen
 - Biconcave shape increases SA:VOL ratio , better oxygen uptake
 - Elastic to enale cells to squeeze through blood cappilaries
