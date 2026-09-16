@@ -1,5 +1,5 @@
 Specialised endocrine cells in the [[Pancreas]], located in the [[Islets of Langerhan]]
-These beta cells comprise 50-70% of all cells in the islets, they release [[Biology Notes (Collaborated)/Y3 Bio/Endocrine (Basic)/Insulin]] and [[Amylin]]
+These beta cells comprise 50-70% of all cells in the islets, they release [[Insulin]] and [[Amylin]]
 They are the only site of insulin synthesis in humans
 
 Release can be stimulated due to:

@@ -10,4 +10,8 @@ There is hydroxyl group on the second carbon, which increases the reactivity  of
 
 ### Deoxyribose
 There is only a H atom on the second carbon , hence the sugar is more stable, hence nucleic acuds made with deoxyribose are more stable.
-DNA is made with de oxy ribosd
+DNA is made with de oxy ribose
+
+
+
+The linking of pentose sugars occurs through a [[Condensation reaction]]. to form a phosphodiester bond.
