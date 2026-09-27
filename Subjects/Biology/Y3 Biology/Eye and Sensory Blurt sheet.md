@@ -72,15 +72,19 @@ When a far object is detected:
 	- The cilliary muscles contract, pulling on the suspensory ligaments, which go taut. The tension from the suspensory ligaments pull on the edges of the lens, which cuases the lens to become thinner and flatter. The light rays from the object are refracted less when passing through the lens, so that the focal point of the ligh rays falls on the fovea of retina.
 When a near object is detected
 - The cilliary muscles relax, and there is less tension on the suspensory ligaments, which go slack. The ligaments push  on the edges of the lens, hence the lenss becomes thinner and more curved. The ligt rays formt he object are refracted more when passing through the lens and hence, the focal point of th elight rays falls on the fovea.
-
+#### Photoreceptors
 Cones :
 - Trichromatic
 - Highest concentration at the fovea 
 - Low concentration at the other reigions of the retina (peripheral vision)
+- Shorter than rods
+- more synaptic terminals
 Rods:
 - Monochromatic
-- Lower concentration at hte fovea.
+- ~~Lower concentration at hte~~ <mark class="hltr-red">NOT PRESENT at the fovea</mark>.
+- LESS synaptic terminals
 
+Rods have disks present in their structure, while cones have <mark class="hltr-yellow">Infolding of cell membrane</mark>, to increase SA:volume ratio
 ~~Optic bundles~~
 
 > [!note] Structure of Retina
@@ -94,9 +98,9 @@ Rods:
 Many to one ratio of rods
 One-to-one ratio of cones:
 
-#### Photoreceptors
 
 
+**Rods favour green over blue** , at night, when cones do not receive enough light, brain cannot perceive colours. Green appears brighter than blue
 
 ---
 Check:
