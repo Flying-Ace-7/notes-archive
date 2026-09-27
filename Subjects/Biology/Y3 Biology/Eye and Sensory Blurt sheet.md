@@ -89,9 +89,12 @@ Rods:
 > Many rods : 1 per ganglion cell
 > 1 Cone: 1 per ganglion cell
 > Each ganglion ceel/ensory neurone is coneected to one biploar cell which in turn is attatched to rods or cones
+>Photoreceptors are located at eh back of the retina, to prevent damage from light, receive more nutrients from choroid layer
 
 Many to one ratio of rods
 One-to-one ratio of cones:
+
+#### Photoreceptors
 
 
 
