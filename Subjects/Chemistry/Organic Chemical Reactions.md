@@ -25,7 +25,9 @@ AlX catalyst
 Acidified $KMnO_4$ (cause a colour change from puprle to colourless)
 
 
-### Condensation
+### [Condensation]
+[[Condensation reaction]]
+
 
 #### Alcohol + Carboxylic acid (esterifaction)
 Conditions: excess conc $H_2SO_4$ + Heat (reflux setup)
