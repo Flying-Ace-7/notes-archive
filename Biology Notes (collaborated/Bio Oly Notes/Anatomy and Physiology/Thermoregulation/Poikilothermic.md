@@ -3,6 +3,6 @@ aliases:
   - Ectotherm
 ---
 
-A term for when its temperature varies considerably, opposite of [[Homeothermic]]
+A term for when its temperature varies considerably, opposite of [[Biology Notes (collaborated/Bio Oly Notes/Anatomy and Physiology/Thermoregulation/Homeothermic]]
 Comes from word: "Poikilos" or varied
 It is most likely a _ectotherm_. _Ectotherm_ refers to an organism which uses heat from outside surroundings.

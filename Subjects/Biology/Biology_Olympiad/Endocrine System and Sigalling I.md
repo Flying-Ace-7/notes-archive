@@ -5,7 +5,7 @@ Core syllabus and content: [[Endocrine system]]
 ### Overview of cell signalling
 
 ![[Pasted image 20260929164804.png]]1: Reception
-	Note, Reception can happen inside the cell if the [[Hormone]] is <mark class="hltr-red">hydrophobic</mark> (fat-soluble)
+	Note, Reception can happen inside the cell if the [[Biology Notes (collaborated/Y3 Bio/Endocrine (Basic)/Hormone]] is <mark class="hltr-red">hydrophobic</mark> (fat-soluble)
 2: Transduction
 
 ### GPCR Signalling

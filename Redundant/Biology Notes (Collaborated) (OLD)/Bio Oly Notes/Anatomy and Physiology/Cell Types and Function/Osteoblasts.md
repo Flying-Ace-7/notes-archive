@@ -1,0 +1,6 @@
+Osteoblasts are involved in
+
+
+Compact bone consists of closely packed osteons or [haversian](https://api.seer.cancer.gov/rest/glossary/latest/id/5508c34ae4b0c48f31d85b81) systems. The [osteon](https://api.seer.cancer.gov/rest/glossary/latest/id/5508c34ae4b0c48f31d85b81) consists of a [central](https://api.seer.cancer.gov/rest/glossary/latest/id/55021d54e4b0c48f31d61808) canal called the osteonic (haversian) canal, which is surrounded by concentric rings (lamellae) of matrix. Between the rings of matrix, the bone cells (osteocytes) are located in spaces called lacunae. Small channels (canaliculi) radiate from the lacunae to the osteonic (haversian) canal to provide passageways through the hard matrix. In compact bone, the haversian systems are packed tightly together to form what appears to be a solid [mass](https://api.seer.cancer.gov/rest/glossary/latest/id/5520eecfe4b0bc5c16bfb7b9). The osteonic canals contain [blood vessels](https://api.seer.cancer.gov/rest/glossary/latest/id/5523144ee4b0bc5c16c09b79) that are parallel to the long [axis](https://api.seer.cancer.gov/rest/glossary/latest/id/55a1679de4b05cd0cdd8efb1) of the bone. These blood vessels interconnect, by way of perforating canals, with vessels on the surface of the bone.
+
+![[Pasted image 20260901084017.png]]
