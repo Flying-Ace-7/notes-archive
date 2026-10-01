@@ -30,3 +30,5 @@ CCC(O)=O.NCC>>CCC(=O)NCC.O
 ```
 THis is the basis for an Acid and amine reaction, the reaction condition is that it needs  heat (reflux) 
 The condensation reaction is also reversible.
+
+

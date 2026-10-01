@@ -207,7 +207,7 @@ Answer: act on Malayan demands to be mroe favourable
 | direct rule                                                      | indirect rule                                                                                    |
 
 _Outcome:_
-1. Sultans were c<mark class="hltr-red">onstitutional monarch</mark>s
+1. Sultans were <mark class="hltr-red">constitutional monarchs</mark>
 	- Sultans remain as sovereigns in name but obliged to accept laws made by the federal and the state government (No longer enjoy absolute power.)
 2. Individual states gain <mark class="hltr-red">autonomy</mark>
 	- individual states enjoy a degree of power over local admin affairs
