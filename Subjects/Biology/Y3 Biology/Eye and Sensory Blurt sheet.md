@@ -63,17 +63,17 @@ Eye and Vision:
 
 
 
-
 Pupil Cranial reflex:
 - When there is too much light detected on the retina,
 	- the optic nerve sends electric signals to the brain, which is conducted to the circular and radial muscles of the iris muscles. The circular muscles contract while the radial muscles relax, constricting the pupil so that less light enters the eye to prevent damage to the photosensitive rods of the retina.
 - When there is not enough light detected on the retions
 	- ... The circular muscles relax while the radial muscles contract. The pupil widens to let more light into the eye, to obatin a clearer image.
 
+ **Accomadation**:
 When a far object is detected:
 	- The cilliary muscles contract, pulling on the suspensory ligaments, which go taut. The tension from the suspensory ligaments pull on the edges of the lens, which cuases the lens to become thinner and flatter. The light rays from the object are refracted less when passing through the lens, so that the focal point of the ligh rays falls on the fovea of retina.
-When a near object is detected
-- The cilliary muscles relax, and there is less tension on the suspensory ligaments, which go slack. The ligaments push  on the edges of the lens, hence the lenss becomes thinner and more curved. The ligt rays formt he object are refracted more when passing through the lens and hence, the focal point of th elight rays falls on the fovea.
+When a near object is detected ( **For lens ot recoil and thicken**)
+- The cilliary muscles relax <mark class="hltr-yellow">pushing on the sunspensory ligaments</mark>, and there is less tension on the suspensory ligaments, which go slack. The ligaments push **all around the** edges of the lens, hence the lenss becomes<mark class="hltr-red"> Thicker </mark> and more curved. The ligt rays formt he object are refracted more when passing through the lens and hence, the focal point of th elight rays falls on the fovea.
 #### Photoreceptors
 Cones :
 - Trichromatic
@@ -104,10 +104,29 @@ One-to-one ratio of cones:
 
 **Rods favour green over blue** , at night, when cones do not receive enough light, brain cannot perceive colours. Green appears brighter than blue
 
+
+
+> [!tip] Blind spot
+> AKA Optic disc
+> 
+| Present                                                                                           | Absent                                   |
+| ------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| Blood vessels -> provide nutrients, carry away waste materials                                    | No photoreceptors                        |
+| Optic nerve (Conduct electrical signals from eye to brain for integration, and visual preception) | unable to recieve stimulus -> Blind spot |
+>
+>
+
+
+
+> [!tip] Features of the fovea
+> Depression, pit, where the cells (**Biploar and sensory neurons**) are pushed away to expose the **Cones**.
+> To allow maximum light to hit the cones directly, for maximum stimulus
+> -> NO RODS
+
+
+
+
 ---
-Check:
-
-### Structure of Human Eye
-
-Eyelids:
--
+### LEARN THE FOLLOWING
+-> Myopia
+![[Myopia]]
