@@ -61,6 +61,7 @@ _Collaboration_
 Europeans were made POWs during JO, dispel white man superiority complex
 
 
+
 ## Changing powers of international power structures
 
 #### Pre- WWI

@@ -35,7 +35,7 @@ Eye and Vision:
 	- Opaque
 	- Continuous with cornea (cornea is transparent)
 - Cornea
-- 
+- Lens
 	- Colourless
 	- Transparent
 	- Provides <mark class="hltr-red">greates index of refraction for light</mark> : -> from air to solid
