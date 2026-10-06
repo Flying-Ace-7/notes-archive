@@ -84,7 +84,7 @@ They had to orchestrate a series of coordinated attacks on key places/cities.
 A self-proclaimed independance
 
 Within Spetember 2, they managed to take over all of vietnam. HCM went to Ba Dinh Square and declared Vietnam's Independance.
-IN the speeach, he proclaimed tje birth of the Democratic Republic of Vietnam. In his speech, he copied almost exactly the American speech of influence. He did this as, he was encouraged by President Roosevelt's critisicm of french colonial rule, and had wanted to show America that they were aligned to their goals, and are not _that_ communist.
+IN the speeach, he proclaimed tje birth of the Democratic Republic of Vietnam. In his speech, he copied almost exactly the American declaration of independance. He did this as, he was encouraged by President Roosevelt's critisicm of french colonial rule, and had wanted to show America that they were aligned to their goals, and are not _that_ communist.
 
 
 **However,** when HCM sent an telegram to UN, to ask tto join UN as Democratic republic of Vietnam (DRV), it was ignored, as France(who was on the security council) had vetoed DRV's joining.
