@@ -56,8 +56,8 @@ The trigger incident happened in 1948
 
 
 ### MCP: POV of British
-1. Recieving commands from USSR
-	- Believed that MCP was recieving instructions from Moscow to direct communist armed struggle in south east asia (no real evidence)
+1. Receiving commands from USSR
+	- Believed that MCP was receiving instructions from Moscow to direct communist armed struggle in south east asia (no real evidence)
 2. Betrayed us !! - Justify Actions
 	- the british planted a spy in MCP: Former Secretary General lai Teck (Head of party) was actually a british agent and originally worked for kempetitai, (japanese secret police) betraying many communists. he got found out, and killed during his escape to Thailand
 	- By 1947, the malayan economy has largely recovered, less workers were willing to go on strike. The british had passed new labour laws to prevent communists from controlling trade unions
@@ -68,7 +68,7 @@ in response to how the british favoured the malay,
 -> they attacked.
 1. 3 European plantation estate manegers in Perak were murdered (**16 Jun 1948**)
 2. British Government <mark class="hltr-cyan"> banned MCP and declared a state of emergency</mark> 
-	- Relocation of large numebr of Chinese squatters to New Villages.
+	- Relocation of large number of Chinese squatters to New Villages.
 	- **Arrested and detained communists And Banned suspected communist organisations**
 3. Newly appointed secretary general of MCP **Chin Peng**, and MCP launched their insurgency 
 	1. MCP Renamed army to *Malayan National Liberation Army* (**<mark class="hltr-orange">MNLA</mark>)
@@ -82,10 +82,10 @@ in response to how the british favoured the malay,
 1. <mark class="hltr-red">Favourable circumstances to gain supporters</mark>
 	- half a million chinese squatters along jungle fringes in the countryside - they had no land and were poor. They were not controlled by the government, and the MCP stepped in to help them and fill in the power vacum
 2. <mark class="hltr-red">Anti-British Liberation Campaigns</mark>
-	- Had te support of many people in Malaya who wanted independance -> Supported by the "Min Yuen" (People's movement) in chinese squatter villages who provided food, inofrmation, recruits and medicine, and money \$$
+	- Had te support of many people in Malaya who wanted independence -> Supported by the "Min Yuen" (People's movement) in chinese squatter villages who provided food, information, recruits and medicine, and money \$$
 	- Told the large chinise minority, they were marginalised by the british, and denied equal rights to vote in elections, few entered gov service, (only 200 or so chinese in the police force)
 3.<mark class="hltr-red">Guerilla warfare was advantageous to MCP</mark>
-	- Trained during the MPAJA (Malaya was 80% jungle)+ british supplies captured Japanese armouries. the british did not have good intelligence, and werent able to find the communists in the jungle,
+	- Trained during the MPAJA (Malaya was 80% jungle)+ british supplies captured Japanese armouries. the british did not have good intelligence, and weren't able to find the communists in the jungle,
 	- MCP had Early success in attacking rubber plantations, tin mines, police stations, derailing trains
 
 
@@ -101,7 +101,7 @@ in response to how the british favoured the malay,
 
 The batang kali massacre news, after being circulated among the chinese, the surge in rage among them, motivating them to take action.
 <mark class="hltr-purple">
-USA did not intervene at all, as they saw this acts as supressing communists.</mark>
+USA did not intervene at all, as they saw this acts as suppressing communists.</mark>
 
 
 #### Briggs Plans
@@ -110,7 +110,7 @@ briggs was like director of operations at that time
 1. Starve out the communists by cutting off their food and medicine supply lines from chinese squatters living at the edge of jungle
 	1. They were the ones that were supplying the MCP
 2. Resettled half a million squatters from their homes to *450 new villages* throughout Malya
-	- Give mordern houses, howeever imposing nightly curfews and violating body searches every day
+	- Give modern houses, however imposing nightly curfews and violating body searches every day
 3. Close monitoring to prevent communists from hiding tin the population
 	- the Malayan police and special branch was set up and given the task of gathering information (intelligence)
 
@@ -118,28 +118,28 @@ FLAWS :
 
 1. Villages were poorly planned
 2. <mark class="hltr-red">Most squatters were not communist supporters, mainly low income farmers</mark>
-	- Ineffective, waste of resources, create hostility/ unecessary suffering
-	- THEY **Used suffering to blame it on MCP's actions as the casue of their suffering**
+	- Ineffective, waste of resources, create hostility/ unnecessary suffering
+	- THEY **Used suffering to blame it on MCP's actions as the cause of their suffering**
 	- Now, even the normal people became anti-british, due to these facts
 
 
-**HOWEVER, MCP still managed to assasinate British High Commissioner, Sir Henry Curney**
+**HOWEVER, MCP still managed to assassinate British High Commissioner, Sir Henry Curney**
 
-Briggs got fires, and replaced him with _British High Commisioner Sir Gerad templer_
+Briggs got fired, and replaced him with _British High Commissioner Sir Gerad templer_
 
 #### Templer's psychological warfare
 
 - Public diplomacy Campaign (1952) "Winning hearts and minds"
-	- He continued to build new settlements and promised independance once MCP has been defeated.
+	- He continued to build new settlements and promised independence once MCP has been defeated.
 
 its kind of the same thing, still attacking MCP
 
 1. political experience
 	- He gave half the chinese citizenships, introduced local elections, village coucills. 
-	- So as to give them a 'home', so that the chinese have something at stake when the MCP attacks, and are more likely to turn agaisnt the MCP
+	- So as to give them a 'home', so that the chinese have something at stake when the MCP attacks, and are more likely to turn against the MCP
 2. New Villages programme
 3. Media
-	- Used film and radio propoganda and distributed among the citizens. very effective
+	- Used film and radio propaganda and distributed among the citizens. very effective
 
 
 Furthermore, he even:
@@ -181,9 +181,10 @@ Historical significance:
 
 Finally, 5 years later, the Malayan Emergency was lifted (31 July 1960)
 
-The struggle was effectively over by 1958, as the last group of guerrilas surrenderd in Perak, they withdrew into thailand.
+The struggle was effectively over by 1958, as the last group of guerrillas surrenderd in Perak, they withdrew into thailand.
 
-The MCP threat only officialy ceased to exist with the signing of the Hat yai peace agreement.
+The MCP threat only officially ceased to exist with the signing of the Hat yai peace agreement.
+December 1989
 
 
 [[Malayan Road to Independance]]
