@@ -16,7 +16,7 @@
   "cupertino-accessibility@@reduce-motion": false,
   "cupertino@@adaptive-mode-off": true,
   "cupertino@@colorful-frame": true,
-  "cupertino@@hover-ribbon": true,
   "cupertino@@focus-view": false,
-  "cupertino@@hover-sidedock": true
+  "cupertino@@hover-sidedock": true,
+  "cupertino@@hover-ribbon": true
 }

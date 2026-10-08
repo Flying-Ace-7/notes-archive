@@ -21,7 +21,7 @@ first, we shall start out with factors affecting <mark class="hltr-red">national
 
 
 Lets stsart:
-We shall look at all these factors at each juncture, for examples, to evaluate whether it was successful in raising nationalism etc., road to independance
+We shall look at all these factors at each juncture, for examples, to evaluate whether it was successful in raising nationalism etc., road to independence
 
 
 ### French Colonialism in indochina
@@ -34,7 +34,7 @@ Residential system, similar to that of [[Transformation of British Malaya I]]
 1. Development of silver based currency- Piastre, <mark class="hltr-red">locals are in debt</mark>
 2. Extractive industries of coal tin zinc -> force vietnamnes to work in bad conditions, and low pay, making them r<mark class="hltr-red">emain poor+ suffer a lot</mark>
 3. Massive expansion of cultivation of rice and other cash crpd -> <mark class="hltr-red">shortage of fodd + death due to famine</mark>
-4. Private Land ownership. The vietnamese farmers became tenats on **thier own land** , land was loaned in high money,<mark class="hltr-red"> making them bankrupt and in debt</mark>
+4. Private Land ownership. The vietnamese farmers became tenats on **their own land** , land was loaned in high money,<mark class="hltr-red"> making them bankrupt and in debt</mark>
 5. Development of infrastructure: Railways -> <mark class="hltr-green">suppressed anger + debt</mark>
 6. French gov set high taxes on imported goods used extensively by locals, <mark class="hltr-red">higher cost of living  </mark>+ displaced local businesses -><mark class="hltr-red"> increased anger</mark>
 
@@ -96,7 +96,7 @@ It was the first time the people had gathered, and hearing the speech and anthem
 
 ### Democratic Republic of Vietname
 
-A self-proclaimed independance
+A self-proclaimed independence
 
 They tried to get into the United Nations (UN), but they got _ignored_ totally.
 USA and western powers did not recognise DRV.
@@ -115,15 +115,15 @@ French gov divided Vietname along the 16th parallel, asking the chinese national
 4. China GMD -> both the VietMinh and french wanted them to leave vietnam, and hence singed an agree of withdrawal of GMD Troops
 
 
--> Ho Chi Minh agreed to it, believing that it is easier to dispell the french rather than the chinese. 
-The Western superiority had been dispelled, and he believed in hsi military capability.
+-> Ho Chi Minh agreed to it, believing that it is easier to dispel the french rather than the chinese. 
+The Western superiority had been dispelled, and he believed in his military capability.
 
 ![[Decolonisation of vietnam#Views on granting independance to Vietnam]]
 
 now, we shall look at the first indochina war
 
 ## First IndoChina War
-It is the actions of hte french trying to quickly take control of vietnam, _before_ the referendum. To get rid of the vietminh.
+It is the actions of the french trying to quickly take control of vietnam, _before_ the referendum. To get rid of the vietminh.
 
 If you forgot who <mark class="hltr-red">Vo Ngyuen Giap</mark> is, he is basically a general to army.
 Lets not forget the 6 criteria/factors affecting nationalism, and analyse them along the way,
@@ -167,7 +167,7 @@ They learnt from soviet forcesm chinese communsits and even resistance forces.
 
 ### Operation Lea 1947
 
-The viet Minh had established their headquaters in Viet bac, a mountainous region. They were conducting guerrila warfare on the french.
+The viet Minh had established their headquarters in Viet bac, a mountainous region. They were conducting guerrilla warfare on the french.
 
 - The french parachuted their forces into the area to force the Viet Minh leaders and lsodiers out their base and to capture the leaders.
 - At the same time, a large force of The French soldiers surrounded the area to attack the Viet Minh soldier when they fled.
@@ -175,7 +175,7 @@ The viet Minh had established their headquaters in Viet bac, a mountainous regio
 
 The operatoin failed to destroy Viet Minh as the leaders were not captured, and the soldiers sought refuge in the Underground tunnel. (which were mines previously from period of french exploitiation)
 
-<mark class="hltr-orange">The vietminh had lost major cities, and thier bases, and they had to flee to the jungles</mark>
+<mark class="hltr-orange">The vietminh had lost major cities, and their bases, and they had to flee to the jungles</mark>
 
 By 1948: Stalemate  
 Commmunists controlled rural and mountainous regions.  
@@ -184,7 +184,7 @@ french controlled major cities and most of CochinChina
 Indochinese Federation to unify Tonkin, Annam, and cochinchina into the <mark class="hltr-cyan">Associated state of Vietnam</mark> , which was supported by the USA and british
 
 > [!tip] brief history
-> Intially, we had Tonkin, Annam and cochinchina separated because of colonial rule.
+> Initially, we had Tonkin, Annam and cochinchina separated because of colonial rule.
 > The, during japanese occupation, all of them got conquered.
 >The Japanese set up a government with Bao Dai as its head
 >...
@@ -226,7 +226,7 @@ the vietnamese brought tanks, artillery to the mountains, by recruiting the loca
 They were able to fight and win, but it started raining heavily, making their firepower not effective, but Help could not arrive too.
 
 -> Poor french military strength
--> Civil war between communists and anti-communists (french pitting them agaisnt each other) + Chinese civil war
+-> Civil war between communists and anti-communists (french pitting them against each other) + Chinese civil war
 
 ### The geneva accords 21 July 1954
 This accords is _actually_ to settle to wars, ongoing at that time
@@ -243,7 +243,7 @@ The conference was attended by :
 The conference discussed wasy to unify vietnam and restore peace.
 
 The key terms of the agreement:
-- vietnam wants to be an independant country
+- vietnam wants to be an independent country
 - temporararily divided a the 17th parallel
 - DMZ of 5km at the 17th parallel
 - **National elections** to be held in 1956 to unify vietnam

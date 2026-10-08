@@ -12,5 +12,6 @@
   "obsidian-git",
   "obsidian-excalidraw-plugin",
   "system3-relay",
-  "chemedit"
+  "chemedit",
+  "obsidian-linter"
 ]
