@@ -54,12 +54,14 @@ Resentment towards Colonial Rule due to violent and repressive measures + ineffe
 
 #### Growth of Local Nationalist Groups
 Japanese created Harsh Living standards and brutal treatement resulted in resistance groups (Proto-nationalist groups) OR collaboration with japanes gave nationalist groups support, admin experience and Confidence.
+- PETA, KRIS
 
 #### Collaboration and Resitance during Japanese Occupation
 
 _Collaboration_
 Europeans were made POWs during JO, dispel white man superiority complex
 
+#### Resistance
 
 
 ## Changing powers of international power structures
