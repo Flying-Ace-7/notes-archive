@@ -11,3 +11,6 @@ Immune diseases are diseases that are transmitted from one person to another, wh
  
  
 ![[Virus]]
+
+### Structure of bacteria
+![[Bacteria]]
