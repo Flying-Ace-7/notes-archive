@@ -8,7 +8,10 @@ We will be mainly looking at [[Mitosis]] and [[Meiosis]]
 Interphase:
 G1: Protein replication (Protein expression for organelle synthesis)
 S: DNA replication
-G2 : DUplicated centrosome + Chromosome formation
+G2 : DUplicated centrosome + double checking replication
+Early prophse: Chromosome replication
+
+[[Regulation of Cell Cycle]] also occurs.
 Mitosis -> Stop replication
 
 ![[Nucleus]]
