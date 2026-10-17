@@ -11,6 +11,10 @@ README ver: 0.1.5.1
 > My notes are crafted through years of academic trials and experience. Please feel free to use them to read up. Note that some notes are still work in progress.
 > Suitable levels for these notes: Grades 8-12
 
+>  Editors Welcome!
+>  Any editors looking to contribute and edit, add to or proof-check the content in this vault are welcome.
+>  We understand that errors (spelling mistakes, wrong evidence) are present in the vault. Feel-free to double check crucial information you obtain. 
+>  For guidlines, refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## How to load and use these notes
 Preferred text editor: Obsidian
