@@ -23,3 +23,9 @@ No ratio comparison -> greyscale vision
 > No.
 > The peak sensitivity of rods is closer to green than blue, hence the rods favour green. More green light is absorbed by the rod than the blue light, **green looks brighter**
 
+
+## Colour blindness (finally)
+
+It is caused by a deficiency in one or more cone types.
+
+Red-Green colour blindness from anamolies in the red or green cones

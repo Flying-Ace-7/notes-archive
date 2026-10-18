@@ -50,11 +50,27 @@ Alternatively, you can use this with any text editors, just that some features w
 ## File structure
 
 All the notes with content are present in the folder `\Subjects`
-In the folder, they are separated according to subject.
-Within a subject folder, a note may be sorted into a folder relevant to it's overarching topic.
+In the folder, they are *separated according to subject.*
+Within a subject folder, a note may be sorted into a folder relevant to it's overarching topic. **A note of a certain subject is linked to its relevant MOC**
+> [!NOTE]
+> MOCs, what are they?
+> An MOC stands for a Map of Content, and it is very versatile in its usage.
+> In this vault, an MOC is used to display all the notes of a certain subject inside one singular note, termed the 'home' note for that subject. 
+> This vault uses the [`Dataview`](https://github.com/blacksmithgu/obsidian-dataview) plugin for the above functionality.
+
+
+
+
 Misplacements of the notes may be present, if they are, please report them as a issue when you are available to do so, to improve for other users.
 
-
+Root: 
+- `\Subjects`
+	- `\Biology`
+	- `\Chemistry`
+	- `\English`
+	- `\History`
+	- `\Math`
+	- `\Physics`
 
 
 ## Contents of Notes:
@@ -69,13 +85,6 @@ Misplacements of the notes may be present, if they are, please report them as a 
 
 (In order of extensivenes)
 
-### Structure of Notes:
-
-All of my notes are contained within the Subjects folder, which if further divided based on subject.
-Notes follow a MOC Structure, if you are familiar with dataview in obsidian this might seem familiar to you.
-All notes of a certain subject are linked to that subject's MOC.
-
-> For example, all my history notes are linked to the History MOC . If any are left out, they are an error, and will be fixed.
 
 [[Schooling subjects]] is currently my main note. Further information can be found there.
 
