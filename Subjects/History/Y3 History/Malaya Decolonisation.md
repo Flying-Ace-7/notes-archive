@@ -46,6 +46,7 @@ Chinese were treated very harshly and had brutal treatment by the japanese in ma
 
 ### Collaboration with Japanese
 The japanese collabortaed with locals, mainly the malays, and giving them high positions in civil sevice previously held by high-ranking europeans. Locals recruited as civil servants
+
 The locals gain administrative experience, increase desire for independace.
 
 The japanese made the europeans POWs, and paraded them in cities, dispelling WMS, and increasing confidence in locals that they could be beaten, increasing nationalism. 
@@ -67,8 +68,81 @@ Return to resume control, restore order and prepare malaya for self-rule
 - Formation of central gov
 - Headed by british goverenor, advised by sultans
 - Citizenship granted regardless of ethnicity, the citizenships laws were lenient and allowed non malays to easily gain citizenship
+==Direct rule==
 
 -> No pwer for sultans
 Everyone unhappy
+<mark class="hltr-purple">
+Sir Harold MacMichael tasked with  convinvcing sultans to agree</mark>
 
-Sir Harold MacMichael tasked with  convinvcing sultans to agree
+Responses:
+
+| Malays                                                                                   | Non-Malays                              |
+| ---------------------------------------------------------------------------------------- | --------------------------------------- |
+| Very Unhappy                                                                             | okay, not unhappy                       |
+| Aired their displeasure in media, like the Utusan Melayu                                 | supportive                              |
+| Formation of UMNO, represetn purely malay interests, led by Tunku                        | AMCJA formation by Tan Cheng Lock       |
+| 10000 Strong protest, to MacMichael's arrival in Malya                                   | MCA formation in 1949 by Tan Cheng Lock |
+| <mark class="hltr-green">Policy of non-cooperation , united front against british</mark> |                                         |
+
+British found it hard to balance the needs of the two parties.
+Frank Swettenham expressed his displeasure at this proposal.
+
+
+## Federation of Malaya
+
+Key terms:
+- Stricter citizenship laws
+- Headed by sultans, advised by the resident-general
+- <mark class="hltr-green"> Individual states gain autonomy</mark>
+
+### Opposition
+- Non-Malays
+- Malay radicals
+	- Feared that malaya is not going to get true soveirginity
+	- Formed PUTERa
+- AMCJA-PUTERA alliance Oct 1947
+	- Organised a nation-wide hartal , wtih 140,000
+	- Failed to paralyse the british
+### MCP EXs
+MCP formed on 1930
+
+MPAJA filled in the power vacum in Malaya before the reutrn of the british, they were greeted heroes by chinese
+reluctantly disbanded, but kept the weapons
+MCP recognized as a legitimate political party
+
+Return of british -> bad economy, low wages, low SOL
+MCP gained supporters easily using propoganda
+
+> British view of MCP
+> Communist, appeared to be recieving orders form moscow
+> Betrayed malaya, british planted a spy in MCP, sec-gen Lai Teck
+
+
+
+### ME
+
+3 European plantation managers were killed in 16 Jun 1948
+
+The british giv banned MCP and detained a large number of suspected communists in 18 Jun 1948, declaring emergency
+
+MCP Renanmed MPAJA-> MNLA, revived the resistance to fight against the british
+
+### Strength of MCP
+1. Strong support form locals
+2. Anti-british liberation campaign
+	1. appeal to chinese squatters
+3. Advantageous guerrilla warfare
+4. Trained dueing MPAJA, used weapons from WWII
+
+Early success in attacking rubber plantaions
+
+
+> Military response
+> Set up checkpints and guards near villages
+> Detain and arrest suspected communsits
+> Home guard orders
+> IC
+> Batang kali massacre 12 December 1948
+
+

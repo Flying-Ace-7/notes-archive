@@ -47,6 +47,12 @@ Alternatively, you can use this with any text editors, just that some features w
 
 
 
+## File structure
+
+All the notes with content are present in the folder `\Subjects`
+In the folder, they are separated according to subject.
+Within a subject folder, a note may be sorted into a folder relevant to it's overarching topic.
+Misplacements of the notes may be present, if they are, please report them as a issue when you are available to do so, to improve for other users.
 
 
 

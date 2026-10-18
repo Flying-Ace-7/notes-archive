@@ -91,7 +91,7 @@ Gene -> Segment of DNA
 2. Enzymes (DNA Helicase) unzips DNA
 	1. Hydrogen bonding between nitrogenous bases broken
 3. Both Strands are used as template and read by **DNA polymerase** (Replicates from 3' end to 5' end)
-4. DNA is made using free floating nucleaotides, via complementary base pairing
+4. DNA is made using free floating nucleaotides, via complementary base pairing (DNA ligase is used)
 5. NEw strand formend and rezipped by DNA
 
 ### Transcription
@@ -109,4 +109,18 @@ Gene -> Segment of DNA
 2. "Ribosome reads the codons in the mRNA"
 3. the tRNA witht the corresponding anticodon will bring in the corresponding amino acids in the ribosome.
 4. The amino acids from peptide bonds to form polypeptide chains
-5. 
+
+
+
+
+
+
+## Gene engineering
+
+used on Plasmid DNA of bacteria.
+
+1. Restriction enzyme is used on the template strand and plasmid dna, to isolate the Gene of interest and cut the plasmid dna to form complementary sticky ends.
+2. The gene of interest forms temperory hydrogne bonding at the complementary sticky ends (annealing)
+3. DNA ligase is used to catlays the formation of phosphodiester bonds in the sugar phosphate chains, to form a permanent bond and forming the recombinant plasmid
+4. The recombinatnt plasmid is reintroduced to a bacteria using electric or heat shock (forms pores in the bacteria membrane andn allows the plasmid to enter the bacteria)
+5.  Cultivate the bacteria to grow the gene-containtnig bacteria

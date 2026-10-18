@@ -4,12 +4,12 @@
 ### Addition
 
 #### Addition of Hydrogen
-Use a Ni/Pd/Pt catalyst
-#### Hydration/Addition of Steam
+Use a Ni/Pd/Pt catalyst+ heat
+#### Hydration/Addition of Steam alkene -> alcool
 Conditions: 60-70atm,300 deg , $H_3PO_4$
-#### Dehydration
+#### Dehydration from an alcohol -> alkene
 Coditions : 180 deg, excess conc $H_2SO_4$
-#### Addition of Halogen ($X_2$)
+#### Addition of Halogen ($X_2$) into an alkene/alkyne
 (Room conditions)
 
 ### Substitution
@@ -18,7 +18,7 @@ Coditions : 180 deg, excess conc $H_2SO_4$
 Onto an Alkane: UV light
 Onto benzene: Fe/FeX catalyst
 
-#### Freidman alkylation
+#### Freidlcraft alkylation
 AlX catalyst
 
 ### Oxidation

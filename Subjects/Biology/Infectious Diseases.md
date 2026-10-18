@@ -43,6 +43,55 @@ Dendritic cells:
 T-cells, B-cells
 
 
+## Vaccination
+Goal of vaacination: a preventive treatment to control and eradicate the spread of a certain infectious disease
+
+Vaccination comes in many forms.
+- Live-attunated vaccines
+	- weakened pathogens that can replicate
+	- strongest long term immnue protection
+	- <mark class="hltr-yellow">the pathogens are unstable and small, risk or reverting to infectious form</mark>
+- Subunit vaccines
+	- weaker, requires boosters
+	- short term prot
+	- <mark class="hltr-purple">no risk of infectious form</mark>
+- Inactivated
+	- killed pathogens, that cannot replicate
+	- may require boosters
+	- <mark class="hltr-purple">lowest risk of side effects, but very complex to select a suitable sub-unit</mark>
+
+
+Routes of vaccine adminsitration:
+- oral
+- Nasal
+- Injection
+
+
+## Antibiotics
+
+>Penicillin
+>Targets cell wall synthesis
+ineffective against viral infectious as virus no cell wall
+
+
+4 methods of actions
+- Cell wall
+	- interfere with synthesis of peptitoglycan
+	- Prevent proper assembly of cell wall, weakening cell wall
+	- Cell lysis can occur, unable to support tugout pressure
+- Protein synthesis
+	- Bind to bacterial ribosomes
+	- interfere with synthesis of essential proteins durting translation 
+	- without the essential proteins, the bacteria dies (<mark class="hltr-green">Prevent growth and survival</mark>)
+- Cell Membrane
+	- interferes with the plasma membrane structure, causes pores in the structure.
+	- Essential cell components leak out of the cell
+	- Cell dies
+- Enzymes
+	- antibiotics bind to and inhibit essential bacterial enzymes
+	- distrupt cellular processes required for bacterial survival
+	- impair bacterial growth and survival
+
 
 
 Next: [[Vaccination]]
