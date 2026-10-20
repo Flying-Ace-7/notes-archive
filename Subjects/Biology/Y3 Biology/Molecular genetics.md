@@ -1,7 +1,7 @@
 [[Biology MOC]]
 
 An organism contains a genome, which is it's blueprint of life, A typical human genome contains 46  chromomes and is Diploid.
-Each chromosme consists of tightly coiled DNA which is coiled around protiens called _histones_,
+Each chromosme consists of tightly coiled [[DNA]] which is coiled around protiens called _histones_,
 And each strand of dna consists of genes.
 
 > Only 2 % of a dna strand contains Coding Dna, that is used, the remaining 98% consits of non-coding dna and intergenic reigions
@@ -34,7 +34,7 @@ C and T are <mark class="hltr-green">Pyramidines</mark>
 > [!warning] In RNA, Uracil (Pyramidine) replaces Thymine, as ut us more energy stable and more reactive
 
 
-### DNA Vs RNA
+### [[DNA]] Vs [[RNA]]
 
 | DNA                                                  | RNA                                 |
 | ---------------------------------------------------- | ----------------------------------- |
@@ -91,7 +91,7 @@ Gene -> Segment of DNA
 2. Enzymes (DNA Helicase) unzips DNA
 	1. Hydrogen bonding between nitrogenous bases broken
 3. Both Strands are used as template and read by **DNA polymerase** (Replicates from 3' end to 5' end)
-4. DNA is made using free floating nucleaotides, via complementary base pairing
+4. DNA is made using free floating nucleaotides, via complementary base pairing (DNA ligase is used)
 5. NEw strand formend and rezipped by DNA
 
 ### Transcription
@@ -109,4 +109,18 @@ Gene -> Segment of DNA
 2. "Ribosome reads the codons in the mRNA"
 3. the tRNA witht the corresponding anticodon will bring in the corresponding amino acids in the ribosome.
 4. The amino acids from peptide bonds to form polypeptide chains
-5. 
+
+
+
+
+
+
+## Gene engineering
+
+used on Plasmid DNA of bacteria.
+
+1. Restriction enzyme is used on the template strand and plasmid dna, to isolate the Gene of interest and cut the plasmid dna to form complementary sticky ends.
+2. The gene of interest forms temperory hydrogne bonding at the complementary sticky ends (annealing)
+3. DNA ligase is used to catlays the formation of phosphodiester bonds in the sugar phosphate chains, to form a permanent bond and forming the recombinant plasmid
+4. The recombinatnt plasmid is reintroduced to a bacteria using electric or heat shock (forms pores in the bacteria membrane andn allows the plasmid to enter the bacteria)
+5.  Cultivate the bacteria to grow the gene-containtnig bacteria

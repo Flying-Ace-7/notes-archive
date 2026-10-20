@@ -9,7 +9,7 @@ Interphase:
 G1: Protein replication (Protein expression for organelle synthesis)
 S: DNA replication
 G2 : DUplicated centrosome + double checking replication
-Early prophse: Chromosome replication
+<mark class="hltr-green">Early prophse: Chromosome formation</mark>
 
 [[Regulation of Cell Cycle]] also occurs.
 Mitosis -> Stop replication
@@ -29,8 +29,9 @@ Mitosis -> Stop replication
 -> Protein at the centre of the chromosome : <mark class="hltr-cyan">Centromere</mark>
 > Chromosomes: responsible for the transmission fo hereditary material from one generation to the next
 > contain DNA
+> They seperate form sister chromatids during anaphase
 
-### Mitosis
+## Mitosis
 #### Prophase:
 Chromatin fibres condense into chromosomes.
 Nuclear envelope breaks down, stopping ribosome production
@@ -60,3 +61,21 @@ Plant cell:
 
 > [!Note] Benefit of using same daughter cells in asexual reproduction : Genetic stability
 
+## Meiosis
+
+stages:
+- Prophase I
+- Metaphase I
+- Anaphase I
+- MetaphaseII
+- Anaphase II
+- Telophase
+
+
+Meiosis is key for genetic variation in offspring, as it produces non-genetically identical haploid gametes, from one parent cell.
+
+#### Sources of genetic variation:
+- Formation of chaismata during synapsis (pairing up) of Homologus chromosomes in metaphase I 
+	- occurs between non-sister homologus chromosomes
+- Independant assortment of chromosomes in anaphase I and II
+- Random fertilisation of gametes
