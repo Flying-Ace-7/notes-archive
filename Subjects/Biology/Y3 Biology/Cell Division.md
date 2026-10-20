@@ -9,7 +9,7 @@ Interphase:
 G1: Protein replication (Protein expression for organelle synthesis)
 S: DNA replication
 G2 : DUplicated centrosome + double checking replication
-Early prophse: Chromosome replication
+<mark class="hltr-green">Early prophse: Chromosome formation</mark>
 
 [[Regulation of Cell Cycle]] also occurs.
 Mitosis -> Stop replication

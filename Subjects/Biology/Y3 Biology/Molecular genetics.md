@@ -1,7 +1,7 @@
 [[Biology MOC]]
 
 An organism contains a genome, which is it's blueprint of life, A typical human genome contains 46  chromomes and is Diploid.
-Each chromosme consists of tightly coiled DNA which is coiled around protiens called _histones_,
+Each chromosme consists of tightly coiled [[DNA]] which is coiled around protiens called _histones_,
 And each strand of dna consists of genes.
 
 > Only 2 % of a dna strand contains Coding Dna, that is used, the remaining 98% consits of non-coding dna and intergenic reigions
@@ -34,7 +34,7 @@ C and T are <mark class="hltr-green">Pyramidines</mark>
 > [!warning] In RNA, Uracil (Pyramidine) replaces Thymine, as ut us more energy stable and more reactive
 
 
-### DNA Vs RNA
+### [[DNA]] Vs [[RNA]]
 
 | DNA                                                  | RNA                                 |
 | ---------------------------------------------------- | ----------------------------------- |
