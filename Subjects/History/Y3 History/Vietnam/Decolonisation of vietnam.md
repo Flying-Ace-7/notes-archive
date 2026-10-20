@@ -4,7 +4,7 @@ aliases:
 ---
 
 [[Colonisation of Vietnam]]
-[[French Vietnam]]
+[[Subjects/History/Y3 History/French Vietnam]]
 
 
 [[History MOC]]
@@ -173,7 +173,7 @@ created a strategy to defend against the french
 Learn from Soviet forces, chinese communists, and even french resistance forces, who are against the nazis (??)
 
 _How it starts:_
-23 November 1946:
+<mark class="hltr-red">23 November 1946</mark>:
 - French Expeditionary Corps had seized Saigon and major cities of the north. They Attacked Haiphong (a city) over a custom dispute, killed 6000 Civilians. They established military occupation in Haiphong
 - The Vietnamese viewed this as an indication of french desire to take vietnam by force.
 - Ho stilll tried to appeal for peace, he told Giap to prepare for open confrontation.

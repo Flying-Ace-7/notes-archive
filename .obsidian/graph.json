@@ -67,6 +67,10 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.118558519705235,
+<<<<<<< HEAD
+  "scale": 0.0825882116678345,
+=======
+  "scale": 0.1708071414974463,
+>>>>>>> vault-fix
   "close": true
 }

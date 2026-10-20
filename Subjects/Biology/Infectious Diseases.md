@@ -43,6 +43,35 @@ Dendritic cells:
 T-cells, B-cells
 
 
+## Vaccination
+![[Vaccination]]
+
+
+## Antibiotics
+
+>Penicillin
+>Targets cell wall synthesis
+ineffective against viral infectious as virus no cell wall
+
+
+4 methods of actions
+- Cell wall
+	- interfere with synthesis of peptitoglycan
+	- Prevent proper assembly of cell wall, weakening cell wall
+	- Cell lysis can occur, unable to support tugout pressure
+- Protein synthesis
+	- Bind to bacterial ribosomes
+	- interfere with synthesis of essential proteins durting translation 
+	- without the essential proteins, the bacteria dies (<mark class="hltr-green">Prevent growth and survival</mark>)
+- Cell Membrane
+	- interferes with the plasma membrane structure, causes pores in the structure.
+	- Essential cell components leak out of the cell
+	- Cell dies
+- Enzymes
+	- antibiotics bind to and inhibit essential bacterial enzymes
+	- distrupt cellular processes required for bacterial survival
+	- impair bacterial growth and survival
+
 
 
 Next: [[Vaccination]]

@@ -22,6 +22,7 @@
 > - Structure: Bent
 > - Bond Angle : <180
 
+
 ## 4 Electron Domains
 
 
@@ -55,7 +56,7 @@
 
 > [!note] 3 Bonding, 2 Non-bonding pairs
 > - Structure: T-Shaped
-> - Bond Angle : 180, <90
+> - Bond Angle : <180, <90
 
 
 > [!note] 2 Bonding, 3 Non-bonding pairs
@@ -73,7 +74,7 @@
 
 > [!note] 5 Bonding, 1 Non-bonding pairs
 > - Structure: Square pyramidal
-> - Bond Angle : <90, 90
+> - Bond Angle : <90, <90
 
 
 
@@ -81,3 +82,4 @@
 > - Structure: square planar
 > - Bond Angle : 90
 ]
+
