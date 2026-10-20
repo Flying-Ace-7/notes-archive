@@ -31,7 +31,7 @@ Mitosis -> Stop replication
 > contain DNA
 > They seperate form sister chromatids during anaphase
 
-## Mitosis
+## [[Mitosis]]
 #### Prophase:
 Chromatin fibres condense into chromosomes.
 Nuclear envelope breaks down, stopping ribosome production
@@ -62,7 +62,7 @@ Plant cell:
 > [!Note] Benefit of using same daughter cells in asexual reproduction : Genetic stability
 
 
-## Meiosis
+## [[Meiosis]]
 
 stages:
 - Prophase I
@@ -80,4 +80,7 @@ Meiosis is key for genetic variation in offspring, as it produces non-geneticall
 	- occurs between non-sister homologus chromosomes
 - Independant assortment of chromosomes in anaphase I and II
 - Random fertilisation of gametes
+
+
+## Mitosis vs Meisosis
 
