@@ -61,6 +61,7 @@ Plant cell:
 
 > [!Note] Benefit of using same daughter cells in asexual reproduction : Genetic stability
 
+
 ## Meiosis
 
 stages:
@@ -79,3 +80,4 @@ Meiosis is key for genetic variation in offspring, as it produces non-geneticall
 	- occurs between non-sister homologus chromosomes
 - Independant assortment of chromosomes in anaphase I and II
 - Random fertilisation of gametes
+

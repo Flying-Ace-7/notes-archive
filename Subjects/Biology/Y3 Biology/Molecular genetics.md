@@ -39,7 +39,7 @@ C and T are <mark class="hltr-green">Pyramidines</mark>
 | DNA                                                  | RNA                                 |
 | ---------------------------------------------------- | ----------------------------------- |
 | Double-stranded                                      | Single stranded                     |
-| Steric hinderance ->**Bonds packed closer**          | NO Steric hinderance                |
+| No Steric hinderance ->**Bonds packed closer**       |  Steric hinderance                  |
 | More stable                                          | Less Stable                         |
 | Less Reactive                                        | More reactive                       |
 | **Long-term storgare of genetic information**        | **Short-lived, mroe diverse roles** |
@@ -109,10 +109,7 @@ Gene -> Segment of DNA
 2. "Ribosome reads the codons in the mRNA"
 3. the tRNA witht the corresponding anticodon will bring in the corresponding amino acids in the ribosome.
 4. The amino acids from peptide bonds to form polypeptide chains
-
-
-
-
+5. Synthesizing a new polypeptide chain
 
 
 ## Gene engineering
@@ -124,3 +121,6 @@ used on Plasmid DNA of bacteria.
 3. DNA ligase is used to catlays the formation of phosphodiester bonds in the sugar phosphate chains, to form a permanent bond and forming the recombinant plasmid
 4. The recombinatnt plasmid is reintroduced to a bacteria using electric or heat shock (forms pores in the bacteria membrane andn allows the plasmid to enter the bacteria)
 5.  Cultivate the bacteria to grow the gene-containtnig bacteria
+
+Next: -> [[Genetic Engineering]]
+
