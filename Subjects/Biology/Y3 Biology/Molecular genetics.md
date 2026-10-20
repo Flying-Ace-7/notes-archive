@@ -39,7 +39,7 @@ C and T are <mark class="hltr-green">Pyramidines</mark>
 | DNA                                                  | RNA                                 |
 | ---------------------------------------------------- | ----------------------------------- |
 | Double-stranded                                      | Single stranded                     |
-| Steric hinderance ->**Bonds packed closer**          | NO Steric hinderance                |
+| No Steric hinderance ->**Bonds packed closer**       |  Steric hinderance                  |
 | More stable                                          | Less Stable                         |
 | Less Reactive                                        | More reactive                       |
 | **Long-term storgare of genetic information**        | **Short-lived, mroe diverse roles** |
@@ -109,4 +109,9 @@ Gene -> Segment of DNA
 2. "Ribosome reads the codons in the mRNA"
 3. the tRNA witht the corresponding anticodon will bring in the corresponding amino acids in the ribosome.
 4. The amino acids from peptide bonds to form polypeptide chains
-5. 
+5. Synthesizing a new polypeptide chain
+
+
+
+
+Next: -> [[Genetic Engineering]]

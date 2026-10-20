@@ -60,3 +60,4 @@ Plant cell:
 
 > [!Note] Benefit of using same daughter cells in asexual reproduction : Genetic stability
 
+
