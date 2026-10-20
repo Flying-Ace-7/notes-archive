@@ -1,8 +1,8 @@
 
 ## VAULT INFO
-Vault version : 0.1.5
+Vault version : 0.1.7
 
-README ver: 0.1.5.1
+README ver: 0.1.5.7
 
 
 > Highschool Notes |
@@ -23,6 +23,8 @@ Preferred text editor: Obsidian
 1. Open a local file in bash, where you want the notes to be
 2. Run `git init`
 3. Run `git clone https://github.com/Flying-Ace-7/notes-archive.git`
+4. Make new Obsidian vault by importing the vault into obsidian
+
 
 
 ##### Method 2: Using ZIP File and converting into an Obsidian Vault
@@ -71,7 +73,7 @@ All notes of a certain subject are linked to that subject's MOC.
 
 > For example, all my history notes are linked to the History MOC . If any are left out, they are an error, and will be fixed.
 
-[[Schooling subjects]] is currently my main note. Further information can be found there.
+[Schooling subjects]([[Schooling subjects]]) is currently my main note. Further information can be found there.
 
 ---
 
