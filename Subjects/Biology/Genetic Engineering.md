@@ -23,5 +23,5 @@ Applications:
 - Form transgenic organisms that have resistance to common diseases
 - Withstand harsher tempratures
 - produce greater yield
-- Gene rherapy
+- Gene therapy
 
