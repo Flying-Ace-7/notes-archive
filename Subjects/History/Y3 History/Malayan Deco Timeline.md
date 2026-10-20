@@ -10,6 +10,9 @@ Japanese swiftly occupied malaya in 1942, till 1945
 MCP establish MPAJA in December 1941 \n
 military build up of MCP</mark>
 2. British return with these aims
+	1. restablish control
+	2. resume order
+	3. self-rule
 
 1946: Draft proposal for MU 
 
@@ -39,8 +42,12 @@ MIC joined alliance in 1954
 
 
 Dec 1955: Baling talks (failed)
+1956: merdeka mission
 
+August 1957 : independance
 1958, major communists surrendered
+
+
 31 July 1960: official end of ME
 
 2 dec 1989 Hat yai peace agreement

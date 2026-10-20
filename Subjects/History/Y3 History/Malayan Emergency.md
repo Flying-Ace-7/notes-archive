@@ -123,7 +123,7 @@ FLAWS :
 	- Now, even the normal people became anti-british, due to these facts
 
 
-**HOWEVER, MCP still managed to assassinate British High Commissioner, Sir Henry Curney**
+**HOWEVER, MCP still managed to assassinate British High Commissioner, Sir Henry Gurney** <mark class="hltr-green">6 Nov 1951</mark>
 
 Briggs got fired, and replaced him with _British High Commissioner Sir Gerad templer_
 
@@ -134,6 +134,7 @@ Briggs got fired, and replaced him with _British High Commissioner Sir Gerad tem
 
 its kind of the same thing, still attacking MCP
 
+Passed the citizenship bill, local elections
 1. political experience
 	- He gave half the chinese citizenships, introduced local elections, village coucills. 
 	- So as to give them a 'home', so that the chinese have something at stake when the MCP attacks, and are more likely to turn against the MCP
