@@ -71,9 +71,9 @@ Pupil Cranial reflex:
 
  **Accomadation**:
 When a far object is detected:
-	- The cilliary muscles contract, pulling on the suspensory ligaments, which go taut. The tension from the suspensory ligaments pull on the edges of the lens, which cuases the lens to become thinner and flatter. The light rays from the object are refracted less when passing through the lens, so that the focal point of the ligh rays falls on the fovea of retina.
+	- The cilliary muscles relax, pulling on the suspensory ligaments, which go taut. The tension from the suspensory ligaments pull on the edges of the lens, which cuases the lens to become thinner and flatter. The light rays from the object are refracted less when passing through the lens, so that the focal point of the ligh rays falls on the fovea of retina.
 When a near object is detected ( **For lens ot recoil and thicken**)
-- The cilliary muscles relax <mark class="hltr-yellow">pushing on the sunspensory ligaments</mark>, and there is less tension on the suspensory ligaments, which go slack. The ligaments push **all around the** edges of the lens, hence the lenss becomes<mark class="hltr-red"> Thicker </mark> and more curved. The ligt rays formt he object are refracted more when passing through the lens and hence, the focal point of th elight rays falls on the fovea.
+- The cilliary muscles contract <mark class="hltr-yellow">pushing on the sunspensory ligaments</mark>, and there is less tension on the suspensory ligaments, which go slack. The ligaments push **all around the** edges of the lens, hence the lenss becomes<mark class="hltr-red"> Thicker </mark> and more curved. The ligt rays formt he object are refracted more when passing through the lens and hence, the focal point of th elight rays falls on the fovea.
 #### Photoreceptors
 Cones :
 - Trichromatic

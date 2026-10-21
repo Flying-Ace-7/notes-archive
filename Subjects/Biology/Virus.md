@@ -1,6 +1,6 @@
 [[Biology MOC]]
 
-Itracullular parasites,
+Itracellular parasites,
 <mark class="hltr-red">Unable to reproduce independently.
 Can only replicate inside living host cells.</mark>
 

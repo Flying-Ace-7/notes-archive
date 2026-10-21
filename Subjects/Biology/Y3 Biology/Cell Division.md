@@ -84,3 +84,41 @@ Meiosis is key for genetic variation in offspring, as it produces non-geneticall
 
 ## Mitosis vs Meisosis
 
+Mitosis is a type of nuclear division that invlolves seperation of sister chromatids,
+Meiosis is a type of reduction division, that involves the seperation of homologus chromosomes in the first division, while the seperation of sister chromatids it is in the second division.
+
+<mark class="hltr-yellow">Mitosis: one division per cell</mark>
+<mark class="hltr-yellow">Meisosis: two divisons per cell</mark>
+
+In mitosis, there is no crossing over or formation of chaismata
+In meiosis, there is formation of chaismata and crossing over between non-sister chromatids in Metaphase I
+
+IN mitosis, sister chromatids pair up
+in meiosis, in metaphase I, homologus chromosomes pair up, in metaphase II, sister chromatids pair up
+
+In mitosis, there are two genetically identical daughter cells formed
+IN meiosis, there are 4 haploid genetically variant daughter cells formed.
+
+In mitosis, there is no change in overall dna content
+In meisois, the dna content is halved in daughter cells
+
+Mitosis occurs in nearly all somatic cells
+Meisoiss occurs in only some specialised cells
+
+Mitotic cells can undergo mitosis again,
+meiotic cells cannot undergo meisois again.
+
+Sister chromatids arrange in one row in metaphase of mitosis,
+Homologus chromosomes arrange in two rows in metaphase II of meiosis
+
+<mark class="hltr-blue">
+in mitosis, Each of sister chromatids move yo opposite poles</mark>
+<mark class="hltr-blue">in meiosis, Each of homologus chromosomes move to opposite phase in Anaphase I, and then sister chromatids sperate and move to opposite poles in Anaphase II</mark>
+
+In mitosis, no genetic exhange
+In meisosi, genetic exchange and genetic variability occur.
+
+Mitosis occurs throughout life, from zygote stage
+Meisosi, occurs onky after maturity of an higher organism.
+
+

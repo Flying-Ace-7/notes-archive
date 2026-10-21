@@ -16,6 +16,10 @@ list from [[]] and !outgoing([[]])
 >\vec{F_{net}}= m \vec{a}
 >$$
 
+>[!Quote] Net torque
+>$$
+>\tau = \vec{F} \times \vec{r} = \vec{F}r \cos \theta
+>$$
 
 
 ### SUVAT Eqns

@@ -1,21 +1,32 @@
 {
+  "settingsVersion": "0.5.0",
   "onboardingTips": {
     "welcomeTipRead": true,
     "strokeLimitTipRead": false,
     "lastVersionTipRead": "0.3.4"
   },
+  "gettingStartedExpanded": true,
   "customAttachmentFolders": true,
   "noteAttachmentFolderLocation": "obsidian",
   "notelessAttachmentFolderLocation": "obsidian",
   "writingSubfolder": "Redundant/Ink/Writing",
   "drawingSubfolder": "Redundant/Ink/Drawing",
+  "debugLoggingEnabled": false,
+  "dominantHand": "right",
   "writingEnabled": true,
   "writingStrokeLimit": 200,
+  "writingBufferLines": 3,
+  "writingLineHeight": 150,
   "writingDynamicStrokeThickness": true,
   "writingSmoothing": false,
   "writingLinesWhenLocked": true,
   "writingBackgroundWhenLocked": true,
+  "writingAutoTranscribeOnClose": true,
+  "writingAutoTranscribeChangeThresholdPercent": 20,
   "drawingEnabled": true,
+  "drawingGridEnabledByDefault": true,
+  "drawingAutoTranscribeOnClose": false,
+  "drawingAutoTranscribeChangeThresholdPercent": 20,
   "drawingFrameWhenLocked": false,
   "drawingBackgroundWhenLocked": false
 }

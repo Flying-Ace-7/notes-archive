@@ -47,7 +47,7 @@ There are three types of neurons:
 ```handdrawn-ink
 {
 	"versionAtEmbed": "0.3.4",
-	"filepath": "Ink/Drawing/2026.5.10 - 12.22pm.drawing",
+	"filepath": "Redundant/Ink/Drawing/2026.5.10 - 12.22pm.drawing",
 	"width": 500,
 	"aspectRatio": 1
 }

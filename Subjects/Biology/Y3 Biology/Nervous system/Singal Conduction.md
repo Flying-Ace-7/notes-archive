@@ -2,7 +2,7 @@
 In the [[Nervous System]] Signal conduction takes place between the neurons of the [Peripheral Nervous system]([[Nervous System#Peripheral Nervous System]]) and the Central nervous System.
 
 ## Parts of a neuron
-![[Neuron Cell Diagram.png]]
+ ![[Neuron Cell Diagram.png]]
 
 1. Dendrite
 	- The dendrite is the starting point of the neuron.
