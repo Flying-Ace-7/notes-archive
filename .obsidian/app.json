@@ -3,5 +3,6 @@
   "promptDelete": false,
   "readableLineLength": false,
   "showInlineTitle": true,
-  "attachmentFolderPath": "Redundant/Images"
+  "attachmentFolderPath": "Redundant/Images",
+  "trashOption": "local"
 }
