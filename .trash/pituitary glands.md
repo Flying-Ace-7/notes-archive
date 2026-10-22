@@ -1,1 +1,0 @@
-The pituitary gland is an endocrine gland which often receive signals from the hypothalmus and then releases
