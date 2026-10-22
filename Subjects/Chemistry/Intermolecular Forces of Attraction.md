@@ -1,6 +1,6 @@
 [[Chemistry MOC]]
 
-There mainly 6 types of IMF, ranked from strongest-> weakest
+There mainly 6 types of IMF, ranked from strongest -> weakest
 
 - Ionic force
 - Hydrogen bonding
