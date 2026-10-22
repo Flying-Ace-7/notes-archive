@@ -7,7 +7,7 @@
 I <mark class="hltr-red">i <mark class="hltr-orange">i <mark class="hltr-yellow">i i <mark class="hltr-green">i i <mark class="hltr-cyan">i i <mark class="hltr-blue">i <mark class="hltr-purple">ii </mark>ii</mark> i </mark>i i i</mark> i i</mark> i</mark> i</mark>ii</mark>
 
 
-
+Refer to the : [[Reactivity series Table]]
 
 
 
