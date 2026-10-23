@@ -18,9 +18,9 @@ $$
 \sec \theta= \frac{r}{x}
 $$
 That sums it up 
-- [ ] lol
-- [f] lol
-- [b]  <mark class="hltr-red">Read up on the other stuff</mark>
+- [x] lol ✅ 2026-10-22
+- [x] lol ✅ 2026-10-22
+- [x]  <mark class="hltr-red">Read up on the other stuff</mark> ✅ 2026-10-22
 
 
 

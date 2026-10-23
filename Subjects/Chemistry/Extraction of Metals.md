@@ -30,3 +30,12 @@ What about for metals above Carbon ont he reactivity series?
 We can use [[Electrolysis]].
 
 Use a molten form of the metal oxide, and allow it the metal ions be reduced
+
+
+> [!Important] Stability of metal carbonate
+> K -> Na carbonate : Stable to heat
+> Ca -> Cu , decomposes to _metal oxide_ and $CO_{2}$
+> Ag,Au -> Decomposes to metal and $CO_{2}$ **AND** $O_{2}$
+
+
+
